@@ -1,0 +1,13 @@
+instance.cfg
+mmc-pack.json
+minecraft/options.txt
+minecraft/icon.png
+
+
+minecraft/.fabric/
+minecraft/coremods/
+minecraft/downloads/
+minecraft/logs/
+minecraft/saves/
+minecraft/server-resource-packs/
+

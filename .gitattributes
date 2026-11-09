@@ -1,1 +1,3 @@
 *.jar filter=lfs diff=lfs merge=lfs -text
+COBBLEVERSE[[:space:]]Soundtrack.zip filter=lfs diff=lfs merge=lfs -text
+JigglyRadio.zip filter=lfs diff=lfs merge=lfs -text

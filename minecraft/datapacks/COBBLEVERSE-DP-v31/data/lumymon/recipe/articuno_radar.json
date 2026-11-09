@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "cobblemon:never_melt_ice"
+    },
+    "Y": {
+      "item": "cobblemon:ice_gem"
+    },
+    "W": {
+      "item": "lumymon:poke_radar"
+    },
+    "Z": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "pattern": [
+    " Y ",
+    "ZWX",
+    "ZXX"
+  ],
+  "result": {
+    "id": "lumymon:articuno_radar"
+  }
+}

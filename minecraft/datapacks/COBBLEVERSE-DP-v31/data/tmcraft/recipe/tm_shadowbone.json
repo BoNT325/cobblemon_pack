@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:diamond_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:ghost_gem"
+    },
+    "Z": {
+      "item": "minecraft:bone"
+    },
+    "W": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "  W"
+  ],
+  "result": {
+    "id": "tmcraft:tm_shadowbone"
+  }
+}

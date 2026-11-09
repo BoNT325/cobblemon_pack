@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:tm_roar"
+    },
+    "Y": {
+      "item": "cobblemon:normal_gem"
+    },
+    "Z": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "pattern": [ 
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_nobleroar"
+  }
+}

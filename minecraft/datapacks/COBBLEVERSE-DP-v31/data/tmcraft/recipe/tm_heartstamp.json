@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:psychic_gem"
+    },
+    "Z": {
+      "item": "cobblemon:love_sweet"
+    },
+    "W": {
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "pattern": [ 
+    "  W",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_heartstamp"
+  }
+}

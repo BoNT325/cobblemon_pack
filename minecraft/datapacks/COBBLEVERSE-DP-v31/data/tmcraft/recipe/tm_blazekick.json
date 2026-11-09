@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:emerald_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:fire_gem"
+    },
+    "Z": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "W": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_blazekick"
+  }
+}

@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:gold_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:dragon_gem"
+    },
+    "Z": {
+      "item": "cobblemon:candied_apple"
+    },
+    "W": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "pattern": [
+    " W ",
+    "XYZ",
+    " W "
+  ],
+  "result": {
+    "id": "tmcraft:tm_ficklebeam"
+  }
+}

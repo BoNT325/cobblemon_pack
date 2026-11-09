@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:netherite_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:fighting_gem"
+    },
+    "Z": {
+      "item": "cobblemon:medicinal_leek"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_meteorassault"
+  }
+}

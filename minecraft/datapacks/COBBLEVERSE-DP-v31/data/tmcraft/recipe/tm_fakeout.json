@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:gold_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:normal_gem"
+    },
+    "Z": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "W": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [ 
+    "   ",
+    "XYW",
+    "  Z"
+  ],
+  "result": {
+    "id": "tmcraft:tm_fakeout"
+  }
+}

@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:fire_gem"
+    },
+    "Z": {
+      "item": "cobblemon:carbos"
+    },
+    "W": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "XYZ",
+    "WWW"
+  ],
+  "result": {
+    "id": "tmcraft:tm_flamewheel"
+  }
+}

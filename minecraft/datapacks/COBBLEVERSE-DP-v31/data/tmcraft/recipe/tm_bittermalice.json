@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:emerald_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:ghost_gem"
+    },
+    "Z": {
+      "item": "cobblemon:spell_tag"
+    },
+    "W": {
+      "item": "cobblemon:never_melt_ice"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "  W"
+  ],
+  "result": {
+    "id": "tmcraft:tm_bittermalice"
+  }
+}

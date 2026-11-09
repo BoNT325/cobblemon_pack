@@ -1,0 +1,34 @@
+{
+  "parent": "cobbleverse:trainer/kanto/defeat_koga",
+  "display": {
+    "title": {
+      "translate": "advancements.cobbleverse.kanto.defeat_sabrina"
+    },
+    "description": {
+      "translate": "advancements.cobbleverse.kanto.defeat_sabrina.description"
+    },
+    "icon": {
+      "id": "cobbleversebadges:kanto_marsh_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "task"
+  },
+  "criteria": {
+    "leader_defeated": {
+      "conditions": {
+        "trainer_ids": ["kanto_sabrina"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "leader_defeated"
+    ]
+  ],
+  "rewards": {
+    "function": "cobbleverse:sabrina_defeated"
+  }
+}

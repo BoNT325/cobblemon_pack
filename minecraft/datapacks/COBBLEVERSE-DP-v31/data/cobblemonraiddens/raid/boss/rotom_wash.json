@@ -1,0 +1,20 @@
+{
+    "pokemon": {
+        "species": "rotom",
+        "moves": [
+            "hex",
+            "shockwave",
+            "discharge",
+            "hydropump"
+        ],
+        "custom_properties": [
+            {
+                "name": "appliance",
+                "value": "wash"
+            }
+        ]
+    },
+    "raid_tier": "TIER_FIVE",
+    "raid_type": "ELECTRIC",
+    "weight": 10.0
+}

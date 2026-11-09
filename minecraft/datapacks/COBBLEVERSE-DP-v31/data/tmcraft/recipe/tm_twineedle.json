@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:gold_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:bug_gem"
+    },
+    "Z": {
+      "item": "cobblemon:poison_barb"
+    },
+    "W": {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "pattern": [
+    "  Z",
+    "XYW",
+    "  Z"
+  ],
+  "result": {
+    "id": "tmcraft:tm_twineedle"
+  }
+}

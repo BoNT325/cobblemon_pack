@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:normal_gem"
+    },
+    "Z": {
+      "item": "cobblemon:protective_pads"
+    }
+  },
+  "pattern": [ 
+    "  Z",
+    "XY ",
+    "  Z"
+  ],
+  "result": {
+    "id": "tmcraft:tm_doubleslap"
+  }
+}

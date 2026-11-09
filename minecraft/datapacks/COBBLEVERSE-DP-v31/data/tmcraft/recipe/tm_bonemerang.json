@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:tm_bonerush"
+    },
+    "Y": {
+      "item": "cobblemon:ground_gem"
+    },
+    "Z": {
+      "item": "minecraft:bone"
+    }
+  },
+  "pattern": [
+    " ZZ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_bonemerang"
+  }
+}

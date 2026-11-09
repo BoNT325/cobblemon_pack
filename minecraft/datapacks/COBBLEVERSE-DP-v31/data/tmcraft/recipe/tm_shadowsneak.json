@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:ghost_gem"
+    },
+    "Z": {
+      "item": "minecraft:sculk"
+    },
+    "W": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "  W"
+  ],
+  "result": {
+    "id": "tmcraft:tm_shadowsneak"
+  }
+}

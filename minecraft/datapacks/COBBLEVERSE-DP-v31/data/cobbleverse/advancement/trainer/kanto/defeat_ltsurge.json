@@ -1,0 +1,34 @@
+{
+  "parent": "cobbleverse:trainer/kanto/defeat_misty",
+  "display": {
+    "title": {
+      "translate": "advancements.cobbleverse.kanto.defeat_ltsurge"
+    },
+    "description": {
+      "translate": "advancements.cobbleverse.kanto.defeat_ltsurge.description"
+    },
+    "icon": {
+      "id": "cobbleversebadges:kanto_thunder_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "task"
+  },
+  "criteria": {
+    "leader_defeated": {
+      "conditions": {
+        "trainer_ids": ["kanto_ltsurge"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "leader_defeated"
+    ]
+  ],
+  "rewards": {
+    "function": "cobbleverse:ltsurge_defeated"
+  }
+}

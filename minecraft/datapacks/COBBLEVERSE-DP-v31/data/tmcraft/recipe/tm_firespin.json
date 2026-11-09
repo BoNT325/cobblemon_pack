@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:fire_gem"
+    },
+    "Z": {
+      "item": "minecraft:wind_charge"
+    },
+    "W": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "pattern": [
+    " WW",
+    "XYZ",
+    " WW"
+  ],
+  "result": {
+    "id": "tmcraft:tm_firespin"
+  }
+}

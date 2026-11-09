@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:copper_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:grass_gem"
+    },
+    "Z": {
+      "item": "cobblemon:grassy_seed"
+    }
+  },
+  "pattern": [
+    " Z ",
+    "XYZ",
+    " Z "
+  ],
+  "result": {
+    "id": "tmcraft:tm_leechseed"
+  }
+}

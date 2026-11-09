@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "cobblemon:fire_stone"
+    },
+    "Y": {
+      "item": "cobblemon:fire_gem"
+    },
+    "W": {
+      "item": "lumymon:poke_radar"
+    },
+    "Z": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "pattern": [
+    " Y ",
+    "ZWZ",
+    "XZX"
+  ],
+  "result": {
+    "id": "lumymon:moltres_radar"
+  }
+}

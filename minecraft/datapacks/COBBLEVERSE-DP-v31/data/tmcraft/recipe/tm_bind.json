@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:normal_gem"
+    },
+    "Z": {
+      "item": "cobblemon:binding_band"
+    }
+  },
+  "pattern": [ 
+    "ZZZ",
+    "XYZ",
+    "ZZZ"
+  ],
+  "result": {
+    "id": "tmcraft:tm_bind"
+  }
+}

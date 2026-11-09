@@ -1,0 +1,32 @@
+{
+  "parent": "cobbleverse:pokemon/revive_mewtwo",
+  "display": {
+    "title": {
+      "translate": "advancements.cobbleverse.revive_mewtwo_shiny"
+    },
+    "description": {
+      "translate": "advancements.cobbleverse.revive_mewtwo_shiny.description"
+    },
+    "icon": {
+      "id": "lumymon:cloning_catalyst_shiny"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": true,
+    "frame": "challenge"
+  },
+  "criteria": {
+    "revived_mewtwo_shiny": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "species": "cobblemon:mewtwo",
+        "aspects": ["shiny"]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "revived_mewtwo_shiny"
+    ]
+  ]
+}

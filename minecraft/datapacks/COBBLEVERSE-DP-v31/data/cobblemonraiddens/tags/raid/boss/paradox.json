@@ -1,0 +1,85 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemonraiddens:brutebonnet",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:fluttermane",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:gougingfire",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:greattusk",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:ironboulder",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:ironbundle",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:ironcrown",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:ironhands",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:ironjugulis",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:ironleaves",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:ironmoth",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:ironthorns",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:irontreads",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:ironvaliant",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:ragingbolt",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:roaringmoon",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:sandyshocks",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:screamtail",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:slitherwing",
+            "required": false
+        },
+        {
+            "id": "cobblemonraiddens:walkingwake",
+            "required": false
+        }
+    ]
+}

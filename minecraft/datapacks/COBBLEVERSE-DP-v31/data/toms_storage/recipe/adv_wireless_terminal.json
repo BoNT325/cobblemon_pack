@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"ICI",
+    "EWE",
+    "DND"
+  ],
+  "key": {
+  	"I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "E": {
+      "tag": "c:ender_pearls"
+    },
+    "W": {
+      "item": "toms_storage:wireless_terminal"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "id": "toms_storage:adv_wireless_terminal"
+  }
+}

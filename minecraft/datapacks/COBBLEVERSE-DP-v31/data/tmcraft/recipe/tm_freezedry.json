@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:gold_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:ice_gem"
+    },
+    "Z": {
+      "item": "cobblemon:ice_stone"
+    },
+    "W": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "pattern": [
+    " WW",
+    "XYZ",
+    " WW"
+  ],
+  "result": {
+    "id": "tmcraft:tm_freezedry"
+  }
+}

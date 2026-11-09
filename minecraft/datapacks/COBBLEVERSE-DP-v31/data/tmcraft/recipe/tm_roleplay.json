@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:copper_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:psychic_gem"
+    },
+    "Z": {
+      "item": "cobblemon:ring_target"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_roleplay"
+  }
+}

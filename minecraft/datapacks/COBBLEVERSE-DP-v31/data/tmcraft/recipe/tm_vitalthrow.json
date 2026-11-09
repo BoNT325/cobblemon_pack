@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:gold_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:fighting_gem"
+    },
+    "Z": {
+      "item": "cobblemon:punching_glove"
+    },
+    "L": {
+      "item": "cobblemon:lagging_tail"
+    }
+  },
+  "pattern": [
+    "  L",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_vitalthrow"
+  }
+}

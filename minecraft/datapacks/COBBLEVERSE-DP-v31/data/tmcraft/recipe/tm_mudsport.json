@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:copper_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:ground_gem"
+    },
+    "Z": {
+      "item": "minecraft:mud"
+    }
+  },
+  "pattern": [
+    "ZZZ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_mudsport"
+  }
+}

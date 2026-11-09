@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:diamond_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:electric_gem"
+    },
+    "Z": {
+      "item": "cobblemon:everstone"
+    },
+    "M": {
+      "item": "cobblemon:cell_battery"
+    }
+  },
+  "pattern": [
+    "  M",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_volttackle"
+  }
+}

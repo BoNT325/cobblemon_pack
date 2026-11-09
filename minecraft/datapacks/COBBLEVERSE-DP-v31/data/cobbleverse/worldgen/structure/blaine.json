@@ -1,0 +1,22 @@
+{
+  "type": "repurposed_structures:generic_nether_jigsaw_structure",
+  "biomes": [
+    "minecraft:crimson_forest"
+  ],
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_box",
+  "spawn_overrides": {},
+  "start_pool": "cobbleverse:blaine",
+  "size": 1,
+  "land_search_direction": "HIGHEST_LAND",
+  "start_height": {
+    "absolute": 0
+  },
+  "dimension_padding": {
+    "bottom": 40,
+    "top": 40
+  },
+  "max_distance_from_center": 1,
+  "use_bounding_box_hack": true,
+  "use_expansion_hack": false
+}

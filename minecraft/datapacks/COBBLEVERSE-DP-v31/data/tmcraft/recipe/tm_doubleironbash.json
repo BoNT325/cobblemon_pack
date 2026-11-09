@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:gold_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:steel_gem"
+    },
+    "Z": {
+      "item": "minecraft:iron_ingot"
+    },
+    "W": {
+      "item": "cobblemon:punching_glove"
+    }
+  },
+  "pattern": [
+    " ZW",
+    "XYZ",
+    " ZW"
+  ],
+  "result": {
+    "id": "tmcraft:tm_doubleironbash"
+  }
+}

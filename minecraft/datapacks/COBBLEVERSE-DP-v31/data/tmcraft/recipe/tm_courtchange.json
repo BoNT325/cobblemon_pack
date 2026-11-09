@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:copper_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:normal_gem"
+    },
+    "Z": {
+      "item": "minecraft:fire_charge"
+    },
+    "W": {
+      "item": "minecraft:grass_block"
+    }
+  },
+  "pattern": [ 
+    "   ",
+    "XYZ",
+    "WWW"
+  ],
+  "result": {
+    "id": "tmcraft:tm_courtchange"
+  }
+}

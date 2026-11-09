@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:tinted_glass"
+    },
+    "Y": {
+      "item": "cobblemon:destiny_knot"
+    },
+    "Z": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " XX",
+    " YX",
+    "Z  "
+  ],
+  "result": {
+    "id": "lumymon:rocket_key"
+  }
+}

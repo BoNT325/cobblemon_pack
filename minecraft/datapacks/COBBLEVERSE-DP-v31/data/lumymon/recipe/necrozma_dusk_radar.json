@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "cobblemon:steel_gem"
+    },
+    "Y": {
+      "item": "mega_showdown:n_solarizer"
+    },
+    "W": {
+      "item": "lumymon:poke_radar"
+    },
+    "Z": {
+      "item": "minecraft:ender_pearl"
+    },
+    "L": {
+      "item": "minecraft:shulker_shell"
+    }
+  },
+  "pattern": [
+    " X ",
+    "ZWZ",
+    "LYL"
+  ],
+  "result": {
+    "id": "lumymon:necrozma_dusk_radar"
+  }
+}

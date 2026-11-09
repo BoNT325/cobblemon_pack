@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:netherite_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:electric_gem"
+    },
+    "Z": {
+      "item": "cobblemon:thunder_stone"
+    },
+    "W": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "XYZ",
+    "WWW"
+  ],
+  "result": {
+    "id": "tmcraft:tm_thundercage"
+  }
+}

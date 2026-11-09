@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "cobbleverse:mythical/mew",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 251,
+      "separation": 151,
+      "salt": 31515
+    }
+  }

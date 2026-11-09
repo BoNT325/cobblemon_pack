@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "thundurus",
+        "moves": [
+            "wildboltstorm",
+            "raindance",
+            "discharge",
+            "crunch"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "ELECTRIC",
+    "weight": 0.2,
+    "loot_table": "cobblemonraiddens:raid/boss/legendary"
+}

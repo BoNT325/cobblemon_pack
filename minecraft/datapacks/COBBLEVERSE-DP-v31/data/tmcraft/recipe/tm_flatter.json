@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:dark_gem"
+    },
+    "Z": {
+      "item": "minecraft:bell"
+    },
+    "W": {
+      "item": "cobblemon:x_special_attack"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_flatter"
+  }
+}

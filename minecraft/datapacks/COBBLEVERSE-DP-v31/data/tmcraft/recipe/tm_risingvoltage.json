@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:electric_gem"
+    },
+    "Z": {
+      "item": "cobblemon:cell_battery"
+    },
+    "W": {
+      "item": "cobblemon:electric_seed"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "WWW"
+  ],
+  "result": {
+    "id": "tmcraft:tm_risingvoltage"
+  }
+}

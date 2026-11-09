@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:netherite_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:normal_gem"
+    },
+    "Z": {
+      "item": "minecraft:tnt"
+    },
+    "W": {
+      "item": "cobblemon:upgrade"
+    }
+  },
+  "pattern": [ 
+    "  Z",
+    "XYW",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_technoblast"
+  }
+}

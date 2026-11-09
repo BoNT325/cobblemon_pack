@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XZX",
+    "XYX",
+    "XZX"
+  ],
+  "key": {
+    "X": { "item": "minecraft:stone" },
+    "Y": { "item": "cobblemon:hard_stone" },
+    "Z": { "item": "minecraft:coal" }
+  },
+  "result": {
+    "id": "lumymon:onyx_stone",
+    "count": 1,
+    "components": {
+      "lumymon:structure_name": "cobbleverse:brock",
+      "lumymon:dimension_id": "any",
+      "lumymon:map_decoration": "lumymon:ground_gym"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Y": {
+      "item": "cobblemon:blue_apricorn"
+    },
+    "Z": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "YXY",
+    "ZZZ",
+    "   "
+  ],
+  "result": {
+    "id": "lumymon:store_card"
+  }
+}

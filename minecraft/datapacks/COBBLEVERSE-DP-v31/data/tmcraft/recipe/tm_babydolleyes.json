@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:copper_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:fairy_gem"
+    },
+    "Z": {
+      "item": "minecraft:ender_eye"
+    },
+    "W": {
+      "item": "pokeblocks:pokedoll_eevee"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_babydolleyes"
+  }
+}

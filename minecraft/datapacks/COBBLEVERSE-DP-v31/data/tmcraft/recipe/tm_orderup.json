@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:emerald_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:dragon_gem"
+    },
+    "Z": {
+      "item": "cobblemon:room_service"
+    },
+    "W": {
+      "item": "cobblemon:ponigiri"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "  W"
+  ],
+  "result": {
+    "id": "tmcraft:tm_orderup"
+  }
+}

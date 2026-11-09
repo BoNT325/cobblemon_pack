@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:diamond_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:ground_gem"
+    },
+    "Z": {
+      "item": "cobblemon:iron_ball"
+    },
+    "W": {
+      "item": "minecraft:grass_block"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "WWW"
+  ],
+  "result": {
+    "id": "tmcraft:tm_magnitude"
+  }
+}

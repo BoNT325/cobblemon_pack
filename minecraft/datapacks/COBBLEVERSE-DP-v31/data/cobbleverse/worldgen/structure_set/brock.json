@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "cobbleverse:brock",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "salt": 1197,
+        "spacing": 40,
+        "separation": 20,
+        "type": "random_spread"
+    }
+}

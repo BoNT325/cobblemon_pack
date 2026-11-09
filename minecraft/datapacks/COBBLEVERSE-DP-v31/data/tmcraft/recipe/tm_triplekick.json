@@ -1,0 +1,28 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:tm_doublekick"
+    },
+    "Y": {
+      "item": "cobblemon:fighting_gem"
+    },
+    "Z": {
+      "item": "cobblemon:focus_sash"
+    },
+    "W": {
+      "item": "cobblemon:x_attack"
+    },
+    "L": {
+      "item": "cobblemon:x_defence"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "  L"
+  ],
+  "result": {
+    "id": "tmcraft:tm_triplekick"
+  }
+}

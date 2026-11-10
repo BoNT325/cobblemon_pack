@@ -2,12 +2,32 @@ instance.cfg
 mmc-pack.json
 minecraft/options.txt
 minecraft/icon.png
+minecraft/usercache.json
+minecraft/defaultoptions.journal.json
 
+minecraft/config/iris.properties
+minecraft/config/packetfixer.properties
+minecraft/config/zfastnoise.mixin.properties
+minecraft/config/euphoria_patcher/
+minecraft/config/fabric/
+minecraft/config/roughlyenoughitems/
+minecraft/config/voicechat/
 
 minecraft/.fabric/
 minecraft/coremods/
+minecraft/data/
 minecraft/downloads/
 minecraft/logs/
 minecraft/saves/
 minecraft/server-resource-packs/
+minecraft/.mixin.out/
+minecraft/cobblemon-battle-logs/
+minecraft/cobblenav/
+minecraft/fancymenu_data/
+minecraft/moddata/
+minecraft/legendary-monuments-data/
+minecraft/shaderpacks/
+minecraft/showdown/
+minecraft/stackdeobf_mappings/
+minecraft/xaero/
 

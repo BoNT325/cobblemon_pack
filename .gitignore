@@ -5,6 +5,7 @@ minecraft/icon.png
 minecraft/usercache.json
 minecraft/defaultoptions.journal.json
 minecraft/command_history.txt
+minecraft/servers.dat_old
 
 minecraft/config/iris.properties
 minecraft/config/packetfixer.properties

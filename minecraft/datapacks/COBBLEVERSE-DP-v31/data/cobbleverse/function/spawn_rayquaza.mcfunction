@@ -1,1 +1,0 @@
-execute in minecraft:the_end run spawnpokemonat 0 70 0 rayquaza shiny=yes level=100 persistent=true

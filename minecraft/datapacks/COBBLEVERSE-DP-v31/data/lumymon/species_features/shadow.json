@@ -1,6 +1,0 @@
-{
-    "keys": [ "shadow" ],
-    "type": "flag",
-    "default": false,
-    "isAspect": true
-  }

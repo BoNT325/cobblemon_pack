@@ -1,9 +1,0 @@
-{
-  "target": "cobblemon:swadloon",
-  "baseScale": 0.7,
-  "hitbox": {
-    "width": 1,
-    "height": 0.9,
-    "fixed": false
-  }
-}

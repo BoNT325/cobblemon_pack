@@ -1,6 +1,0 @@
-{
-    "keys": [ "armored" ],
-    "type": "flag",
-    "default": false,
-    "isAspect": true
-  }

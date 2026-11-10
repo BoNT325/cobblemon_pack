@@ -1,6 +1,0 @@
-{
-  "keys": ["legendary"],
-  "type": "flag",
-  "isAspect": true,
-  "default": false
-}

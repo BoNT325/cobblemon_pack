@@ -1,0 +1,768 @@
+{
+  "friendship": {
+    "maxFriendshipValue": 255,
+    "comfortableThreshold": 30,
+    "fondThreshold": 70,
+    "loyalThreshold": 90,
+    "bestFriendsThreshold": 100,
+    "enablePetting": true,
+    "enableDirectClickPetting": false,
+    "enablePettingWheelOption": true,
+    "enablePettingKeybind": true,
+    "enablePlayerPetting": true,
+    "enablePlayerPettingRegeneration": true,
+    "playerPettingRegenerationDurationTicks": 45,
+    "pettingGain": 2,
+    "pettingGainIntervalTicks": 50,
+    "maxPettingGainPerMinecraftDay": 20,
+    "petSessionExpiryTicks": 8,
+    "pettingRange": 4.5,
+    "enableWalkingFriendship": true,
+    "walkingGain": 1,
+    "walkingBlocksPerGain": 384.0,
+    "maxWalkingGainPerMinecraftDay": 10,
+    "maxCompanionDistance": 12.0,
+    "enableFollowAssist": true,
+    "pauseFollowAssistInBattle": true,
+    "preferredFollowDistance": 3.5,
+    "largePokemonFollowDistance": 5.0,
+    "followAssistTeleportDistance": 18.0,
+    "followAssistSpeedMultiplier": 1.0,
+    "scaleFollowDistanceForLargePokemon": false,
+    "followAssistMinDistanceRatio": 0.65,
+    "enableFollowAssistSettling": false,
+    "followAssistSettleAfterTicks": 60,
+    "maxCountedPlayerBlocksPerSecond": 9.0,
+    "minCountedPlayerBlocksPerSecond": 0.05
+  },
+  "gifts": {
+    "enableGiftFinding": true,
+    "minimumFriendshipPercent": 0,
+    "blocksPerGiftRoll": 550.0,
+    "commonCooldownTicks": 14400,
+    "betterCooldownTicks": 30000,
+    "rareCooldownTicks": 72000,
+    "specialCooldownTicks": 108000,
+    "commonChanceAt70": 0.18,
+    "betterChanceAt90": 0.22,
+    "rareChanceAt90": 0.035,
+    "rareChanceAt100": 0.055,
+    "specialChanceAt100": 0.025,
+    "requireNoHeldItem": false,
+    "requireClickToAccept": true,
+    "enableEvolutionItems": true,
+    "enableCompetitionItems": true,
+    "enableMinecraftItems": true,
+    "enableCustomGiftItems": true,
+    "customGiftItems": []
+  },
+  "bracelet": {
+    "enableFriendshipBracelet": true,
+    "consumeOnUse": false,
+    "particles": true,
+    "idleHeartEveryTicks": 240,
+    "idleHeartsOnlyOutsideBallOrBattle": true,
+    "contestGrowthMultiplier": 1.5,
+    "friendshipGrowthMultiplier": 1.35
+  },
+  "contest": {
+    "enableContestStats": true,
+    "enableContestPage": true,
+    "braceletLocksContestGrowth": false,
+    "enableMaxStatParticles": true,
+    "autoSelectNewRibbons": true,
+    "maxContestStat": 255,
+    "shoutCooldownTicks": 600,
+    "shoutToAllPlayers": true,
+    "shoutRadiusBlocks": 96.0,
+    "showContestMilestoneMessages": true,
+    "cuteHeadpatGain": 5,
+    "coolBattleWinGain": 6,
+    "beautyHealingGain": 10,
+    "smartWorkstationGain": 4,
+    "braceletActivationGain": 8,
+    "toughWalkingBlocksPerPoint": 16.0,
+    "maxStatParticleEveryTicks": 28,
+    "maxStatParticleChancePerStat": 1.0,
+    "companionMasterParticleChance": 1.0
+  },
+  "memories": {
+    "enableMemoryMoments": true,
+    "enableMemoryLog": true,
+    "globalCooldownTicks": 42000,
+    "perPokemonCooldownTicks": 54000,
+    "maxMemoriesPerPokemon": 24,
+    "longJourneyBlocks": 5000,
+    "closeCallCooldownTicks": 36000,
+    "returnHomeDistanceBlocks": 800,
+    "ambientMessageEveryTicks": 6000,
+    "ambientMessageChance": 0.045,
+    "battleWinFriendshipGain": 1,
+    "showMemoryParticles": true,
+    "showMessagesToNearbyPlayers": false
+  },
+  "utility": {
+    "enableUtilityActions": true,
+    "enablePcCommand": false,
+    "enableDigOreGifts": true,
+    "digOreDuplicateChance": 0.1,
+    "digOreGiftCooldownTicks": 400,
+    "enableFireCooking": true,
+    "fireCookingTicks": 400,
+    "enableWaterSplash": true,
+    "waterSplashChance": 0.75,
+    "waterSplashCooldownTicks": 400,
+    "enablePoisonRetaliation": true,
+    "poisonRetaliationChance": 0.35,
+    "poisonRetaliationDurationTicks": 100
+  },
+  "affection": {
+    "enableAffectionEffects": true,
+    "minimumFriendshipPercent": 90,
+    "rollChancePerSecond": 0.015,
+    "cooldownTicks": 1200,
+    "allowStatusCures": true,
+    "allowLowHpHealing": true,
+    "lowHpHealFraction": 0.12
+  },
+  "shinyLeaves": {
+    "enableShinyLeaves": true,
+    "minimumFriendshipPercent": 0,
+    "blocksPerLeafRoll": 650.0,
+    "chancePerRoll": 0.12,
+    "leavesForCrown": 5,
+    "giveCrownItem": true
+  },
+  "visuals": {
+    "heartParticles": true,
+    "sparkleParticles": true,
+    "crownAuraParticles": true,
+    "accessoryCrownSlots": true,
+    "particleIntensity": 0.85,
+    "showMessagesInActionBar": true,
+    "partnerMessageDurationTicks": 120,
+    "showParticlesForOtherPlayersPokemon": false
+  },
+  "typeGiftTables": {
+    "normal": [
+      {
+        "item": "minecraft:apple",
+        "minCount": 1,
+        "maxCount": 2,
+        "weight": 30,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:wheat",
+        "minCount": 2,
+        "maxCount": 5,
+        "weight": 28,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:feather",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 18,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:gold_nugget",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 6,
+        "minTier": 3,
+        "rarity": "rare"
+      }
+    ],
+    "grass": [
+      {
+        "item": "minecraft:wheat_seeds",
+        "minCount": 2,
+        "maxCount": 6,
+        "weight": 30,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:moss_block",
+        "minCount": 1,
+        "maxCount": 2,
+        "weight": 18,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:vine",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 16,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:flowering_azalea",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 8,
+        "minTier": 3,
+        "rarity": "better"
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 3,
+        "minTier": 4,
+        "rarity": "special"
+      }
+    ],
+    "water": [
+      {
+        "item": "minecraft:clay_ball",
+        "minCount": 2,
+        "maxCount": 8,
+        "weight": 28,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:kelp",
+        "minCount": 2,
+        "maxCount": 6,
+        "weight": 24,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:prismarine_shard",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 10,
+        "minTier": 3,
+        "rarity": "better"
+      },
+      {
+        "item": "minecraft:nautilus_shell",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 3,
+        "minTier": 4,
+        "rarity": "rare"
+      }
+    ],
+    "fire": [
+      {
+        "item": "minecraft:coal",
+        "minCount": 1,
+        "maxCount": 4,
+        "weight": 30,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:charcoal",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 24,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:gunpowder",
+        "minCount": 1,
+        "maxCount": 2,
+        "weight": 10,
+        "minTier": 3,
+        "rarity": "better"
+      },
+      {
+        "item": "minecraft:blaze_powder",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 3,
+        "minTier": 4,
+        "rarity": "rare"
+      }
+    ],
+    "electric": [
+      {
+        "item": "minecraft:redstone",
+        "minCount": 2,
+        "maxCount": 7,
+        "weight": 30,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:copper_ingot",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 16,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:glowstone_dust",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 10,
+        "minTier": 3,
+        "rarity": "better"
+      }
+    ],
+    "rock": [
+      {
+        "item": "minecraft:stone",
+        "minCount": 4,
+        "maxCount": 12,
+        "weight": 25,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:coal",
+        "minCount": 1,
+        "maxCount": 4,
+        "weight": 20,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:raw_copper",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 12,
+        "minTier": 3,
+        "rarity": "better"
+      },
+      {
+        "item": "minecraft:emerald",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 2,
+        "minTier": 4,
+        "rarity": "rare"
+      }
+    ],
+    "ground": [
+      {
+        "item": "minecraft:clay_ball",
+        "minCount": 2,
+        "maxCount": 8,
+        "weight": 24,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:sand",
+        "minCount": 4,
+        "maxCount": 12,
+        "weight": 24,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:gravel",
+        "minCount": 4,
+        "maxCount": 12,
+        "weight": 20,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:raw_iron",
+        "minCount": 1,
+        "maxCount": 2,
+        "weight": 6,
+        "minTier": 3,
+        "rarity": "better"
+      }
+    ],
+    "fairy": [
+      {
+        "item": "minecraft:pink_dye",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 20,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:cookie",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 20,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:amethyst_shard",
+        "minCount": 1,
+        "maxCount": 2,
+        "weight": 10,
+        "minTier": 3,
+        "rarity": "better"
+      },
+      {
+        "item": "minecraft:glistering_melon_slice",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 4,
+        "minTier": 4,
+        "rarity": "rare"
+      }
+    ],
+    "ghost": [
+      {
+        "item": "minecraft:bone",
+        "minCount": 1,
+        "maxCount": 4,
+        "weight": 22,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:candle",
+        "minCount": 1,
+        "maxCount": 2,
+        "weight": 18,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:soul_sand",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 10,
+        "minTier": 3,
+        "rarity": "better"
+      },
+      {
+        "item": "minecraft:amethyst_shard",
+        "minCount": 1,
+        "maxCount": 2,
+        "weight": 8,
+        "minTier": 3,
+        "rarity": "better"
+      },
+      {
+        "item": "minecraft:echo_shard",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 1,
+        "minTier": 4,
+        "rarity": "special"
+      }
+    ],
+    "dragon": [
+      {
+        "item": "minecraft:gold_nugget",
+        "minCount": 1,
+        "maxCount": 6,
+        "weight": 20,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:amethyst_shard",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 13,
+        "minTier": 3,
+        "rarity": "better"
+      },
+      {
+        "item": "minecraft:emerald",
+        "minCount": 1,
+        "maxCount": 2,
+        "weight": 5,
+        "minTier": 4,
+        "rarity": "rare"
+      },
+      {
+        "item": "minecraft:diamond",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 1,
+        "minTier": 4,
+        "rarity": "special"
+      }
+    ],
+    "bug": [
+      {
+        "item": "minecraft:string",
+        "minCount": 1,
+        "maxCount": 4,
+        "weight": 28,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:honeycomb",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 14,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:oak_leaves",
+        "minCount": 2,
+        "maxCount": 6,
+        "weight": 16,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:flowering_azalea_leaves",
+        "minCount": 1,
+        "maxCount": 2,
+        "weight": 8,
+        "minTier": 3,
+        "rarity": "better"
+      }
+    ],
+    "ice": [
+      {
+        "item": "minecraft:snowball",
+        "minCount": 4,
+        "maxCount": 12,
+        "weight": 28,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:ice",
+        "minCount": 1,
+        "maxCount": 4,
+        "weight": 16,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:packed_ice",
+        "minCount": 1,
+        "maxCount": 2,
+        "weight": 8,
+        "minTier": 3,
+        "rarity": "better"
+      },
+      {
+        "item": "minecraft:blue_ice",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 2,
+        "minTier": 4,
+        "rarity": "rare"
+      }
+    ],
+    "psychic": [
+      {
+        "item": "minecraft:amethyst_shard",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 24,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:book",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 12,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:lapis_lazuli",
+        "minCount": 2,
+        "maxCount": 6,
+        "weight": 16,
+        "minTier": 3,
+        "rarity": "better"
+      },
+      {
+        "item": "minecraft:ender_pearl",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 4,
+        "minTier": 4,
+        "rarity": "rare"
+      }
+    ],
+    "dark": [
+      {
+        "item": "minecraft:ink_sac",
+        "minCount": 1,
+        "maxCount": 4,
+        "weight": 24,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:bone",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 18,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:black_dye",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 14,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:echo_shard",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 1,
+        "minTier": 4,
+        "rarity": "special"
+      }
+    ],
+    "steel": [
+      {
+        "item": "minecraft:iron_nugget",
+        "minCount": 2,
+        "maxCount": 8,
+        "weight": 30,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:copper_ingot",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 16,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:chain",
+        "minCount": 1,
+        "maxCount": 2,
+        "weight": 10,
+        "minTier": 3,
+        "rarity": "better"
+      },
+      {
+        "item": "minecraft:raw_iron",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 8,
+        "minTier": 3,
+        "rarity": "better"
+      }
+    ],
+    "flying": [
+      {
+        "item": "minecraft:feather",
+        "minCount": 1,
+        "maxCount": 5,
+        "weight": 32,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:wheat_seeds",
+        "minCount": 2,
+        "maxCount": 6,
+        "weight": 20,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:egg",
+        "minCount": 1,
+        "maxCount": 2,
+        "weight": 8,
+        "minTier": 3,
+        "rarity": "better"
+      },
+      {
+        "item": "minecraft:phantom_membrane",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 2,
+        "minTier": 4,
+        "rarity": "rare"
+      }
+    ],
+    "poison": [
+      {
+        "item": "minecraft:spider_eye",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 22,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:brown_mushroom",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 16,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:red_mushroom",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 16,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:fermented_spider_eye",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 8,
+        "minTier": 3,
+        "rarity": "better"
+      }
+    ],
+    "fighting": [
+      {
+        "item": "minecraft:leather",
+        "minCount": 1,
+        "maxCount": 3,
+        "weight": 24,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:string",
+        "minCount": 1,
+        "maxCount": 4,
+        "weight": 18,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:iron_nugget",
+        "minCount": 2,
+        "maxCount": 6,
+        "weight": 18,
+        "minTier": 2,
+        "rarity": "common"
+      },
+      {
+        "item": "minecraft:golden_apple",
+        "minCount": 1,
+        "maxCount": 1,
+        "weight": 1,
+        "minTier": 4,
+        "rarity": "special"
+      }
+    ]
+  }
+}

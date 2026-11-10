@@ -4,6 +4,7 @@ minecraft/options.txt
 minecraft/icon.png
 minecraft/usercache.json
 minecraft/defaultoptions.journal.json
+minecraft/command_history.txt
 
 minecraft/config/iris.properties
 minecraft/config/packetfixer.properties
@@ -31,5 +32,6 @@ minecraft/shaderpacks/
 minecraft/showdown/
 minecraft/stackdeobf_mappings/
 minecraft/xaero*/
+
 
 

@@ -12,6 +12,7 @@ minecraft/config/packetfixer.properties
 minecraft/config/zfastnoise.mixin.properties
 minecraft/config/euphoria_patcher/
 minecraft/config/fabric/
+minecraft/config/respackopts/
 minecraft/config/roughlyenoughitems/
 minecraft/config/voicechat/
 

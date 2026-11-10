@@ -22,11 +22,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # 1. Checkout the source code
+    # 1. Checkout the source code and fetch real Git LFS binaries
     - name: Checkout Repository
       uses: actions/checkout@v4
+      with:
+        lfs: true # 🌟 This forces GitHub to download the real .jar files, not the pointers
 
-    # 2. Setup Go environment
+    # 2. explicit pull step to guarantee LFS files are fully downloaded
+    - name: Fetch LFS files
+      run: git lfs pull
+
+    # 2.1. Setup Go environment
     - name: Setup Go
       uses: actions/setup-go@v5
       with:

@@ -26,8 +26,10 @@ minecraft/cobblenav/
 minecraft/fancymenu_data/
 minecraft/moddata/
 minecraft/legendary-monuments-data/
+minecraft/server/
 minecraft/shaderpacks/
 minecraft/showdown/
 minecraft/stackdeobf_mappings/
-minecraft/xaero/
+minecraft/xaero*/
+
 

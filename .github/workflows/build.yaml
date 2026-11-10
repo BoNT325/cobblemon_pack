@@ -34,7 +34,7 @@ jobs:
 
     # 3. Install Packwiz CLI
     - name: Install Packwiz
-      run: go install /github.com/packwiz/packwiz@latest
+      run: go install github.com/packwiz/packwiz@latest
 
     # 4. Enforce clean index metadata
     - name: Refresh Packwiz Index

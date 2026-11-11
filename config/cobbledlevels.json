@@ -49,7 +49,7 @@
     }
   },
   "DifficultyScaling": {
-    "Enabled": true,
+    "Enabled": false,
     "DifficultyMultiplier": 1.0
   },
   "DepthScaling": {

@@ -786,67 +786,67 @@ hash = "7a01493f275333f63eac73dbeaf2a364739264293caae5311ce5c77a90ed9908"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
-hash = "f7cdb046228c1e8acfbb0bb65f82238ec8cddb0de827f1b491816a585903a459"
+hash = "9c3364d411d47a70075c9e7053a212742e83bed73cee7ae67af44222ed465100"
 
 [[files]]
 file = "config/xaero/lib/common.cfg"
-hash = "f2a8bbed7b74362fa3a5a283514c53d3c2d7a05d594433c84720ff21f88bd9f1"
+hash = "edb56656d532e8807b260da4a52f2cc8c2a0973a8840f56706b63ac8d2db30f9"
 
 [[files]]
 file = "config/xaero/lib/profiles/cobbleverse.cfg"
-hash = "6beb396078aa19dcd885dc0cec72b7b6b5ac6a7f2b92242edab2091119a5adbf"
+hash = "a09360f0d863650029bdc6d91587317807794d94f5fa11e136060b46ca7eee2b"
 
 [[files]]
 file = "config/xaero/lib/server_profiles/cobbleverse.cfg"
-hash = "0e4b8b8a2b8370a1f92fcbd33efd602e076caedbe90418fa2159b772f8cad0de"
+hash = "b953b427790d4e2614b7e99fb8843dfb5ecf8b9f465ca138f0da167b75263ad2"
 
 [[files]]
 file = "config/xaero/minimap/client.cfg"
-hash = "85784d7af75f9082f421990cfaa28a8dd4950748d70cb93e5162b11e67165889"
+hash = "9244abe5ffd73338e70cc57a6d96402b6335657ad31a15c6c9f650f0d27b7471"
 
 [[files]]
 file = "config/xaero/minimap/common.cfg"
-hash = "677744a0666df58fb526bdf6cd49347d24e0c53be7b45b76a36f51c655d8dc81"
+hash = "b4ea3cffa53c87f4f8c3cb87f62470a5bebe54fe5e51974743c2c941cbcb8cf0"
 
 [[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
-hash = "f24fd6b77b56b41b95fb5bca9c0d9222d7953bba83c3a2a684e6272d3fe0ffb4"
+hash = "7f6b8401eb5006254f3484ff9701b686c0ad0b656fdd3170ec7986fdb66f818c"
 
 [[files]]
 file = "config/xaero/minimap/default_radar_categories_server.json"
-hash = "5bc8206e17a412a60b5c8da1e929fb2e974bdf7d0fac8e30b0ce2e34437bfc20"
+hash = "976c674c650f00c9b3ef5d14f93b897a63ccb04b086d3368e1e0f49ef0868f86"
 
 [[files]]
 file = "config/xaero/minimap/profiles/cobbleverse.cfg"
-hash = "fccf92d2ff86f4447de1f436e1c95624a72336329ee79abdc1bee2aa7b84ff12"
+hash = "6e3da9adb79f9bf067b00e3cdb2339df345d41c1346d75e75b681c2f38364609"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/cobbleverse.cfg.json"
-hash = "3584d815977e172ebb9c61626e75783f2fe58d6f4ba26d9b2fe49d33f2282618"
+hash = "8fb9a642680b234a4bf6348d491079d523f5b011c07f7ace6046fc16d8d508a7"
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/cobbleverse.cfg.txt"
-hash = "c92e34623894760cdb83bba43d403a6db9110abacdcee174e8828c4eb5f2de60"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
 
 [[files]]
 file = "config/xaero/minimap/server_profiles/cobbleverse.cfg"
-hash = "0e4b8b8a2b8370a1f92fcbd33efd602e076caedbe90418fa2159b772f8cad0de"
+hash = "b953b427790d4e2614b7e99fb8843dfb5ecf8b9f465ca138f0da167b75263ad2"
 
 [[files]]
 file = "config/xaero/world-map/client.cfg"
-hash = "39904026479c97e78dbe3313daa5154dc246eeefcb6196814874794e790416fe"
+hash = "5e31f390f0c81c488f0b025ae4ab94bcdb453ad7f4eca8306c55a5d951b919b7"
 
 [[files]]
 file = "config/xaero/world-map/common.cfg"
-hash = "c16eeadc1b74dc5be2f91e6cf9b25c0c36d4167ac7e2fdfe8b0b498de2786376"
+hash = "9fbd62a7b9acd5f89999507bfc31cdfcf264f45c16a2006f544d471c60f69582"
 
 [[files]]
 file = "config/xaero/world-map/profiles/cobbleverse.cfg"
-hash = "ce72ce2a3b3163b30729f21cc3b809bfe609b32a30198bfea1ed83e02eff2a7f"
+hash = "cc07290cdcc4dd5ad02a7f8b6a655cc59afbf93dbef40bb6fcb73bfa6fdd104d"
 
 [[files]]
 file = "config/xaero/world-map/server_profiles/cobbleverse.cfg"
-hash = "0e4b8b8a2b8370a1f92fcbd33efd602e076caedbe90418fa2159b772f8cad0de"
+hash = "b953b427790d4e2614b7e99fb8843dfb5ecf8b9f465ca138f0da167b75263ad2"
 
 [[files]]
 file = "config/xaerohud.txt"

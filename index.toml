@@ -18,7 +18,7 @@ hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
 file = "config/PaginatedAdvancements.json5"
-hash = "aa86ef4a4b4167f57fbbdfa497988566f7297cc521d69e904cf7e1f9b0d7917b"
+hash = "678d385ab09c7d610f80f1f45d990dd829cbe52b8a02b4b24b3dd919439a8cfb"
 
 [[files]]
 file = "config/PastureLoot.json"
@@ -65,12 +65,8 @@ file = "config/biome_replacer.properties"
 hash = "c4803c6dbd66c106783dfe95a83551a2452fd02b5613477f0d1539c116b8f014"
 
 [[files]]
-file = "config/brb.toml"
-hash = "7af6a8a7b1bdce01e48b6f4de8c706288a61f733ac85604d2b91e6b2b4dad659"
-
-[[files]]
 file = "config/c2me.toml"
-hash = "9337ab6562896363faed25b6f33e0dda3088eb16cabe793ca257fe7619a7958f"
+hash = "bd21af579a54b315a23766a7be48d256377b1473ad13c4a91a8bbb8aa6c5d817"
 
 [[files]]
 file = "config/capture_xp.json"
@@ -130,7 +126,7 @@ hash = "77d161bd4e2c3aed899602318d68a1638226a715584fd5e5177537580af31d49"
 
 [[files]]
 file = "config/cobblemon-battle-extras.json"
-hash = "2922a8569c6e8d125c7490c27ad2fc337220e51c268061cfe525e2b3747dfd79"
+hash = "40c127cab1432010180796757755b6c0963e84af1f927046538b75bcfde0c088"
 
 [[files]]
 file = "config/cobblemon/main.json"
@@ -201,10 +197,6 @@ file = "config/cobblenav/server-config.json"
 hash = "0575c74968c25d2a3622c5451e4efdf872ea3f653b1845844ebc17983d998863"
 
 [[files]]
-file = "config/cobbreeding/encryption"
-hash = "cae9d06246734afc5280b4c7695339292591cb88f45a9e699730a01bb7efbf7c"
-
-[[files]]
 file = "config/cobbreeding/main.json"
 hash = "29d12b846ddc8ff8bfd4b0b6c5dc7938071caa0f75f36bf9938e65383747b4d9"
 
@@ -250,7 +242,7 @@ hash = "5e65826fdf8ea1a7656a6ed8e50de22991a95d0af0f5bae67edea15a77676ff1"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "3e9976620036fd61591ea2e84d3a3171dffb13d7edfc988d4520cd6025ce89c5"
+hash = "c5010fbed538b50b13573a71bc3e3cf9806f52c1c23468f837ddf852bd1599cd"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -258,7 +250,7 @@ hash = "8616bb11da49cfed6db3837185be92eb34bf622e878ed5739509e4b6ef28817c"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "befebf3a0de04b5c7be065e934dc54f3693fbaa86e2bd6dbaca46284aceb25df"
+hash = "9f47865bd1c25003cdbc8a5cca1c5f66095139384438e30e022cca544fdb0f4c"
 
 [[files]]
 file = "config/entity_model_features.json"
@@ -269,12 +261,16 @@ file = "config/entity_texture_features.json"
 hash = "7a50b76544acf0f454052bc5f162ca2e2f57c076d79e04d2fa8307c961bc8070"
 
 [[files]]
-file = "config/entityculling.json"
-hash = "dc76f01afba2b81cf23f104dc86ab694e46543bf56a8ddd35f0f9224018db2e7"
-
-[[files]]
 file = "config/etf_warnings.json"
 hash = "368c428c9edaddb490c2e7339642e79ceddcb0a6fd8fd434c4bd8e1af34c26f8"
+
+[[files]]
+file = "config/euphoria_patcher/.data.json"
+hash = "47bc6493c67ab61593db8a78e72f8ff482591613d941d7b1da38f95d33e980b1"
+
+[[files]]
+file = "config/euphoria_patcher/settings.toml"
+hash = "42c4920277f8e3ea7c7bb3d31a92a2460e98375316dd265c3d2c4b77622ff93e"
 
 [[files]]
 file = "config/fancymenu/assets/bg_test.png"
@@ -314,7 +310,7 @@ hash = "1408dccaaaac27395c49e220c690ee67bd493067c16fbbee44a1668d2af179eb"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "5837b93ca72956c76bea8f9f969d27923497e48473b63e87243960c961e325f4"
+hash = "27422fbddb9a4436af370cba7645f4e32b7f9b9252581842b782d92a9309c93d"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -553,10 +549,6 @@ file = "config/ferritecore.mixin.properties"
 hash = "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818"
 
 [[files]]
-file = "config/followme.json"
-hash = "f33a9d3d1e8d5bd174b20b14296c4be4e63dedf8f23eca050709ccf5bd66465a"
-
-[[files]]
 file = "config/forgeconfigapiport.toml"
 hash = "aa7820e54c267335b6c9d1b3e674e92d586a155ce6e8b151c2255eda8cb09155"
 
@@ -565,24 +557,12 @@ file = "config/forgivingvoid-common.toml"
 hash = "4ed2899244cf9a570b58a80e294d633e08051b2219ced4dd02dc50430cb0ee8c"
 
 [[files]]
-file = "config/fzzy_config/keybinds.toml"
-hash = "145656d6c0012e217965f7f45d9322190c0567c2ee4b47aaced6dcf5074c4a83"
-
-[[files]]
 file = "config/global_packs.toml"
 hash = "d7a28e552872125a961f45631c32e3ae8f6dd63acde561083f15cc9270f7a78a"
 
 [[files]]
-file = "config/grassier-grass.json"
-hash = "ce49827c11c0ab27048c57ae1f8acf2697809ed2e8ccc8d07796f89826959bde"
-
-[[files]]
 file = "config/immediatelyfast.json"
 hash = "1fe0d229b7eff89707588558acbd83fe0115343cf846cba6a70b0fd099374ab7"
-
-[[files]]
-file = "config/infinite-music-options.json"
-hash = "759bca36e16c880fb0d3efe9aabdabccef48c316179fcac1701ff599b5ce91bb"
 
 [[files]]
 file = "config/interactic.json5"
@@ -593,36 +573,12 @@ file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
-file = "config/konkrete/locals/de_de.local"
-hash = "9cf580b889772edd244b5ea7cf42439bbae7bf2834bd759b819052d8f147e5fd"
-
-[[files]]
-file = "config/konkrete/locals/en_us.local"
-hash = "7e47765e16c56722a24ff7343191913b00ef2c8493b7172c641d61c8b583b0d4"
-
-[[files]]
-file = "config/konkrete/locals/pl_pl.local"
-hash = "29e0e9f6e599f34ce351814cd4bbfa1bbea884122aff4b5072bff105d94f6862"
-
-[[files]]
-file = "config/konkrete/locals/pt_br.local"
-hash = "d53707bca34d3d11ef17642d819a4444550bf5d1c3557d0d8c19c5d47e46bbc4"
+file = "config/iris.properties"
+hash = "f31d8fe6137665479641d26bc9943f052caf7d8a2de561f189e250f8e61432c7"
 
 [[files]]
 file = "config/lenientdeath.json5"
 hash = "c71dce76f61ed3f393f7117e9dc92a6cc65ca44361f749699d550e47185f7f78"
-
-[[files]]
-file = "config/libjf-config-core-v2.json5"
-hash = "31034e7bacb0a81e96fa4b7e44e9486a08a00c28bba8af0d638010a7bca9d9c1"
-
-[[files]]
-file = "config/libjf-translate-v1.json5"
-hash = "7f429692f09e7a8ded58be898fd78361a404fed62460e4e1906de3f12be0b431"
-
-[[files]]
-file = "config/libjf-web-v1.json5"
-hash = "a5abaf6a7e844714cabaaf29fca14ee45b6adb060389b232a40fa44f191c7942"
 
 [[files]]
 file = "config/lithium.properties"
@@ -651,10 +607,6 @@ hash = "557596773eb11b99363b3429bf2eb8f88f22bed132fbdd7212f5d599b0b14b5b"
 [[files]]
 file = "config/modmenu.json"
 hash = "4782d89e08814f9e78994f7de65817ac5c6fce56ecf00ccd920730a0bd32fa64"
-
-[[files]]
-file = "config/more_cobblemon_tweaks.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -734,7 +686,7 @@ hash = "26599e2e226dbe5da22cc1453af13e4e0aa872861c201962a486c60290d1430a"
 
 [[files]]
 file = "config/reeses_sodium_options.json"
-hash = "3f1723c2abe2147305f11aca639e05f6a8abb1b5bc69e8b0bc1a9f46bfe6652f"
+hash = "1220e4b94bc4a9dc47b652560977e510af0e7b876627bb29c3c609515fabfc00"
 
 [[files]]
 file = "config/repurposed_structures.json"
@@ -745,8 +697,16 @@ file = "config/resourcepackoverrides.json"
 hash = "06a36c75e1fad4c057fb14bd04384b82486b2dc882f67b357daf7499449e442b"
 
 [[files]]
+file = "config/respackopts/_respackopts.conf"
+hash = "8e42c76481421e2b3f3c83481e3920319b78b69c6c987e02e4c52bc7ea4e1be4"
+
+[[files]]
 file = "config/roughlyenoughitems/collapsible.json5"
-hash = "b7de8f1cd637987739a05fbaa27f911f9e57345c41724625c4c19dd74a639536"
+hash = "28affe67c9dca1efdf31c1012589d411bf6ea3ccd61711e26a6e51ea64e71a32"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "551a91afeeaf618f084c4d32c3ad1832d8d042274742330ed31100406186e55e"
 
 [[files]]
 file = "config/safepastures/safepastures.json"
@@ -755,10 +715,6 @@ hash = "9a90e6a0fec4d62d1c31a5c56efa4dbbf8aed5ba1d32b314cb934a01d2c39bad"
 [[files]]
 file = "config/scalablelux.properties"
 hash = "12ab6abf98b0edac3b4d49f2d813aad886bdb5b14b8f3a663eb2533aebabc8dd"
-
-[[files]]
-file = "config/sodium-fingerprint.json"
-hash = "1b619cb2abe8cc6ae6a6ed8aa1887b202abe7277307358853ddd21ad27e5ebf6"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -806,7 +762,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "e66e1f5d0260ca24832d9a4f6f301f9d32bcab1f70c35dc575c290ffeb1395ac"
+hash = "e4582c912ed461e1f5082d6255c16da2a1ed3c31f049f1670ca9c2c7350b7f81"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -827,26 +783,6 @@ hash = "8489a19e6bddaead2a37e8b3b348b051146b25a90b516e5ae1ac2eb10568ed08"
 [[files]]
 file = "config/toms_storage.json"
 hash = "271a44f7ad2ffac9410911d9d6b81651c94250be64b3d49467ff61ff8d9e64e0"
-
-[[files]]
-file = "config/transition.json"
-hash = "32e08bf66812418b9626d96f3b12b896da2adda8b9f3877a257fa66aa8062f94"
-
-[[files]]
-file = "config/trender.json"
-hash = "59086d6236b1d9364abda6e42b69ae8d782d90995a52db2b00eac5fe1293a828"
-
-[[files]]
-file = "config/trmt-client.json"
-hash = "1850a9b11f8a45cb8078958d389d5fc7b2c09ac2dc8eeddc356954f350bc02b9"
-
-[[files]]
-file = "config/trmt.json"
-hash = "cfcd8e9ba54a637b9c85de01cb705866ceeeae64ed3d52711109f7c06007bc88"
-
-[[files]]
-file = "config/vanillabackport-client.toml"
-hash = "dbb3dddcd72f1891a2b7d06b029bc4c045d47b88af084058a937d079a0cec483"
 
 [[files]]
 file = "config/vanillabackport-common.toml"
@@ -923,10 +859,6 @@ hash = "0e4b8b8a2b8370a1f92fcbd33efd602e076caedbe90418fa2159b772f8cad0de"
 [[files]]
 file = "config/xaerohud.txt"
 hash = "756210578d5050fcd0509a0d4c551764f6ec9f1d5c098e779439f40b11343a37"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yacl.json5"
@@ -11681,10 +11613,6 @@ file = "mods/biomereplacer-2.1-hippo-fabric.jar"
 hash = "ec6eeda3d4d32d9740c3e6f24177db3fcfa06866f73e341c0ad4ea090d0055ac"
 
 [[files]]
-file = "mods/brb-1.10.0-rc5+1.21.jar"
-hash = "7ddc4761bf5ca59c34703d9586e6edaf6c7a7a3939ed7cdb6c103ab9fec6707b"
-
-[[files]]
 file = "mods/c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar"
 hash = "6a77c69140f3da10e20b25ee8a75da039c5835b73f9c7a03615fbd968b574e5e"
 
@@ -12271,10 +12199,6 @@ hash = "f27d6f288ed40ef1cde60901554fc0b952c0d6854940714a790a79f66c0cfcfd"
 [[files]]
 file = "resourcepacks/z DO NOT ENABLE z [Terralith - Credits Only].zip"
 hash = "d0f5b0f88152d494cb51c6c06f2b5e52617df9860b2f383d00c85338d81ab164"
-
-[[files]]
-file = "servers.dat"
-hash = "9f47865bd1c25003cdbc8a5cca1c5f66095139384438e30e022cca544fdb0f4c"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders (High Quality).txt"
@@ -14742,7 +14666,7 @@ hash = "873732bf4872d105393846f41f40cc6c39881b422a35a507ec12580083e57a65"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders.txt"
-hash = "7f4be0229c3a00e85d6aa9da93e93d8c60b9446f58047dd2ed46f3cef91ceaf8"
+hash = "d1fff3a4b444cffefd8f73f171b5e8b1f7b54035e9dc51ecaf975b843c15efc1"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/ComplementaryLicense.txt"
@@ -14862,35 +14786,35 @@ hash = "881ca086c528302fa8b2af2fc03dbcd7ff87a3de0dcb74d8706eed8360a131c6"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/shaders/lang/en_US.lang"
-hash = "8cc56d85e63291344c4d5f777b6f569f0280d8d2005fc120ae018a92f504a581"
+hash = "77483daa1d71cb947855d071c6007f0dd99084b58c552341967b396522114d2e"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/shaders/lang/ja_JP.lang"
-hash = "9e30920d0db98552f14c4b06975cbefeb4dd6a20219b579b6d6778cbac6fcebc"
+hash = "eeea2e14acdb2aa4b751278b2b117485a07e6c99212b1fd62e8ebcaca5cad918"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/shaders/lang/ko_KR.lang"
-hash = "f094e3a9291dbc1c75312e4aefa2e4ce2d35d003d40c87f8724503b910599d0a"
+hash = "34fe0eb33256ac60016f26fa3060db0233fb0c0a4e85ace93a700dca64f1048f"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/shaders/lang/pl_PL.lang"
-hash = "6a3d61b87444a9aa7de154175bb23e0ff432095d41ff4ed8a93d3d50e5450272"
+hash = "6bf9677ce00880c189f482e0fbf6e85fa8a9e71b86071c2910d7e2cdb32c2790"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/shaders/lang/pt_BR.lang"
-hash = "ac0480a90696ed8ef751b653457ea99afa99402f65dcec1efc46875ea482aead"
+hash = "8ead6c9f86398ce01ee0951bd6f9accee340db606651cae5c34db69ce4223020"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/shaders/lang/ru_RU.lang"
-hash = "a8c16eaa8767541be2a21892d2799f5782894d35a8ccde30d2cf17aa6910eb5c"
+hash = "0640919462f99ba630bb6ce7ecd94fc316ddbb91a90ea41904d10a4f1988edb1"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/shaders/lang/uk_UA.lang"
-hash = "e65fe8379644dd2358b7f28ce90d5910cec96fbf292dcd3e2c7d888bd47cdad9"
+hash = "005263eb682da3cf16c21c3e26e9992130998f5fb3ed124bf60c1bddb6728a47"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/shaders/lang/zh_CN.lang"
-hash = "501871298c5d14160504dfcfe5dc654bc2a7efae8abfb45172a23e0fa275d6c2"
+hash = "a0538fa050e07052d071a3d68e2c38d33f1140c63186ff46a6376e5636930531"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/shaders/lib/antialiasing/fxaa.glsl"
@@ -15906,7 +15830,7 @@ hash = "f12bacf79e9964750af5ce236e97a624511310b894d0705f1f8f4c5d3ace640c"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/shaders/pack.json"
-hash = "c407e27b9855390726f51b8ba9f8fbf633b1b6c343a9c530a5266fb45f48c7bc"
+hash = "0da7d21db9c5e9c6d1abc6133c16bbe6cfcf60961985f9c67358635dd19b1ec4"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/shaders/pack.png"
@@ -16154,7 +16078,7 @@ hash = "2b16d7daa24790def8eae7b3dc5ee78a9d8fec7d9fed0a817f5e8b6f2e7ab9af"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/shaders/shaders.properties"
-hash = "80fbd89cb152f0d8876b6ec16a77d48bd0f3f7546c3c166ea38da4ca4a516e16"
+hash = "13843c17aa8bcd718c0f4a6a6c5a711b379bc987d25b973b765e91ff6bf77f97"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders/shaders/world-1/clrwl_gbuffers.fsh"

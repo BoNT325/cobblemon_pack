@@ -1,14 +1,12 @@
 {
 	"PinningEnabled": true,
-	"ShowAdvancementIDInDebugTooltip": false,
-	"ShowDebugInfo": "NEVER",
+	"ShowAdvancementIDInDebugTooltip": true,
+	"ShowDebugInfo": "DEBUG_TOOLTIPS_ENABLED",
 	"MaxCriterionEntries": 2,
-	"FadeOutBackgroundOnAdvancementHover": false,
+	"FadeOutBackgroundOnAdvancementHover": true,
 	"SaveLastSelectedTab": true,
-	"PinnedTabs": [
-		"cobbleverse:root"
-	],
-	"LastSelectedTab": "mega_showdown:mega_showdown/root",
+	"PinnedTabs": [],
+	"LastSelectedTab": "",
 	"SpacingBetweenHorizontalTabs": 4,
 	"SpacingBetweenPinnedTabs": 2
 }

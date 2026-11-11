@@ -1,3 +1,1 @@
-disabledMods = [
-    "beautify", "rctmod", "repurposed_structures"
-]
+disabledMods = []

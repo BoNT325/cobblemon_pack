@@ -1,12 +1,12 @@
 {
-  "minBreedingTimeInTicks": 8400,
-  "maxBreedingTimeInTicks": 18000,
+  "minBreedingTimeInTicks": 8000,
+  "maxBreedingTimeInTicks": 14000,
   "mirrorHerbTimeInTicks": 600,
   "eggHatchMultiplier": 1.0,
   "shinyMethod": {
-    "masuda": 2.0,
-    "crystal": 2.0,
-    "always": 8.0
+    "masuda": 4.0,
+    "crystal": 1.0,
+    "always": 1.0
   },
   "hiddenAbilitiesEnabled": true,
   "forcedAbilitiesEnabled": false,
@@ -32,10 +32,11 @@
     "bull_breed",
     "tatsugiri_texture",
     "whiscash_nero",
-    "wooper_heart"
+    "wooper_heart",
+    "wolf_form"
   ],
   "maxNumberOfActivatedPasturePerPlayer": -1,
-  "pastureInventorySize": 3,
-  "eggEncryptionEnabled": false,
+  "pastureInventorySize": 5,
+  "eggEncryptionEnabled": true,
   "cobblemonSizeVariationsCompatEnabled": true
 }

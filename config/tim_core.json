@@ -1,5 +1,5 @@
 {
-  "expAllMultiplier": 0.1,
+  "expAllMultiplier": 1.0,
   "enableExpAll": true,
   "forceExpAll": false,
   "addBucketToData": true,
@@ -10,7 +10,7 @@
   "pokemonEntitiesAreInvulnerable": false,
   "reservedPokemonEntitiesAreInvulnerable": true,
   "requirePartyToFishPokemon": false,
-  "fossilMachineResurrectionTime": 12000,
+  "fossilMachineResurrectionTime": 14400,
   "disableEvGain": false,
   "bucketKeys": {
     "common": "tim_core.buckets.common",

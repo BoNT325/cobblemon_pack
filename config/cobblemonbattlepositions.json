@@ -1,6 +1,6 @@
 {
-  "horizontalSearchRadius": 16,
-  "verticalSearchRange": 3,
+  "horizontalSearchRadius": 48,
+  "verticalSearchRange": 6,
   "doublesOffset": 2.0,
   "triplesOffset": 3.0,
   "spawnHeightOffset": 2.0,

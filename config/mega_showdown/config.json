@@ -1,12 +1,12 @@
 {
   "teraShardRequired": 50,
-  "multipleMegas": true,
-  "showdownFilesLoading": true,
+  "multipleMegas": false,
+  "msdPatchAutoUpdate": true,
   "mega": true,
   "zMoves": true,
   "teralization": true,
   "dynamax": true,
-  "powerSpotRange": 32,
+  "powerSpotRange": 20,
   "dynamaxAnywhere": false,
   "dynamaxScaleFactor": 4.0,
   "teraShardDropRate": 10.0,
@@ -18,7 +18,7 @@
   "teraHats": true,
   "legacyTeraEffect": false,
   "showBattleHUD": false,
-  "showStatChanges": true,
+  "showStatChanges": false,
   "showMoveTooltips": false,
   "debugMode": false
 }

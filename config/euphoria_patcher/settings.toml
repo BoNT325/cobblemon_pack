@@ -5,7 +5,7 @@
 [display]
 	# Option for the sodium message popup logging.
 	# Default = true
-	doPopUpLogging = false
+	doPopUpLogging = true
 
 	# Option that enables or disables the in-game shader messages, for example an update message made by the shader itself. Only works on Iris or Oculus
 	# Default = true
@@ -16,7 +16,7 @@
 	# Update checker mode: 'important' (critical or big updates only), 'all' (all updates), 'none' (disabled).
 	# Uses the Modrinth API to fetch update information.
 	# Default = important
-	doUpdateChecking = "none"
+	doUpdateChecking = "important"
 
 [maintenance]
 	# Option that automatically renames outdated Euphoria Patches folders and config files to a new name.
@@ -26,7 +26,7 @@
 
 	# Option that automatically deletes outdated Euphoria Patches folders and config files.
 	# Default = false
-	doDeleteOldShaderFiles = true
+	doDeleteOldShaderFiles = false
 
 [debug]
 	# Option that enables or disables debug logging. Alternatively, one can also set the JVM argument -DebugEP=true/false which takes priority over this setting.

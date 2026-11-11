@@ -1,10 +1,10 @@
 {
   "shouldGiveLevels": false,
-  "baseXP": 0.8,
+  "baseXP": 5.0,
   "baseLevels": 1,
   "enableDailyCap": false,
   "dailyXpCap": 1000,
-  "dailyLevelCap": 5,
+  "dailyLevelCap": 10,
   "xpFromPlayerBattles": true,
   "luckyEggXpBoost": true,
   "luckyEggXpMultiplier": 1.5

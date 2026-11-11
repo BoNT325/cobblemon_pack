@@ -1,16 +1,16 @@
 {
   "configVersion": 5,
   "perf": {
-    "maxParticleAmount": 1000,
+    "maxParticleAmount": 1500,
     "particleDensity": 100,
     "particleStormDensity": 200,
     "particleDistance": 16,
     "surfaceRange": 100
   },
   "sound": {
-    "rainVolume": 0.14999999,
-    "snowVolume": 0.049999997,
-    "windVolume": 0.14999999
+    "rainVolume": 0.2,
+    "snowVolume": 0.1,
+    "windVolume": 0.1
   },
   "wind": {
     "strength": 0.4,
@@ -20,14 +20,22 @@
     "yLevelAdjustment": true
   },
   "compat": {
-    "renderDefaultWeather": true,
+    "renderDefaultWeather": false,
     "doDefaultSplashing": false,
     "waterTint": true,
-    "tintMix": 0.19999999,
+    "tintMix": 0.6,
     "shaderpackTint": true,
     "syncRegistries": true,
     "crossBiomeBorder": false,
     "useHeightmapTemp": true,
+    "weatherIgnoreBlocks": {
+      "entries": [
+        "#minecraft:fences",
+        "#minecraft:all_signs",
+        "minecraft:barrier"
+      ],
+      "isWhitelist": true
+    },
     "doSpawnHeightLimit": false,
     "spawnHeightLimit": 0
   },

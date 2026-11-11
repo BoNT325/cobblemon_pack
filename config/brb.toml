@@ -1,7 +1,7 @@
 enablePinning = false
-keepCentered = false
+keepCentered = true
 settingsButton = false
-enableBook = false
+enableBook = true
 
 [newRecipes]
 unlockAll = true

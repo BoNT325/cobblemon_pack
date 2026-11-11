@@ -1,5 +1,5 @@
 {
-  "remotePcEnabled": false,
+  "remotePcEnabled": true,
   "enablePokeSnackBlacklist": true,
   "blacklistedPokeSnackSpawns": [
     "custom",
@@ -10,5 +10,5 @@
   "creakingToTrevenant": true,
   "giveCheersOnRaidStart": true,
   "raidCheerCount": 3,
-  "initialScreenVersion": 3
+  "initialScreenVersion": 0
 }

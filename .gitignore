@@ -7,13 +7,6 @@ defaultoptions.journal.json
 command_history.txt
 servers.dat_old
 
-config/iris.properties
-config/packetfixer.properties
-config/zfastnoise.mixin.properties
-config/euphoria_patcher/
-config/fabric/
-config/roughlyenoughitems/
-config/voicechat/
 
 .fabric/
 coremods/

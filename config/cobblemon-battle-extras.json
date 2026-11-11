@@ -99,7 +99,7 @@
   "opponentPartyInfoSlotsLayoutMode": 0,
   "enableGimmickUsageDisplay": false,
   "partyInfoSlotsLayoutModeMigrated": true,
-  "opponentInfoPanelOffsetX": -1,
+  "opponentInfoPanelOffsetX": 0,
   "opponentInfoPanelOffsetY": 0,
   "enableXPGainedDisplay": true,
   "useEnhancedBattleLogStyle": true,

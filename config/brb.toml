@@ -1,6 +1,6 @@
-enablePinning = true
-keepCentered = false
-settingsButton = true
+enablePinning = false
+keepCentered = true
+settingsButton = false
 enableBook = true
 
 [newRecipes]
@@ -13,7 +13,7 @@ enabled = false
 
 [alternativeRecipes]
 onHover = true
-noGrouped = false
+noGrouped = true
 
 [scrolling]
 enableScrolling = true

@@ -23,7 +23,7 @@ disableTextGlow = false
 dynmap = true
 
 # If enabled, JourneyMap waypoints will be created for each activated waystone.
-journeyMap = true
+journeyMap = false
 
 # If enabled, JourneyMap waypoints will only be created if the mod 'JourneyMap Integration' is not installed
 preferJourneyMapIntegrationMod = true
@@ -68,13 +68,13 @@ inventoryButtonY = 60
 [teleports]
 
 # Set to false to simply disable all cooldowns. See warpRequirements for more fine-grained control.
-enableCooldowns = true
+enableCooldowns = false
 
 # Set to false to simply disable all xp costs. See warpRequirements for more fine-grained control.
-enableCosts = true
+enableCosts = false
 
 # Set to true to enable warp modifier items for applying status effects on teleports.
-enableModifiers = true
+enableModifiers = false
 
 # List of entities that cannot be teleported, either as pet, leashed, or on warp plates.
 entityDenyList = [ "minecraft:wither" ]
@@ -106,10 +106,142 @@ chunksBetweenWildWaystones = 25
 nameGenerationMode = "PRESET_FIRST"
 
 # These names will be used for the PRESET name generation mode. See the nameGenerationMode option for more info.
-nameGenerationPresets = [  ]
+nameGenerationPresets = [ 
+    "Lumyverse", 
+    "Lumynia", 
+    "Accumula Town", 
+    "Ambrette Town", 
+    "Anistar City", 
+    "Anville Town", 
+    "Aquacorde Town", 
+    "Aspertia City", 
+    "Azalea Town", 
+    "Ballonlea", 
+    "Black City", 
+    "Blackthorn City", 
+    "Camphrier Town", 
+    "Canalave City", 
+    "Castelia City", 
+    "Celadon City", 
+    "Celestic Town", 
+    "Cerulean City", 
+    "Cherrygrove City", 
+    "Cianwood City", 
+    "Cinnabar Island", 
+    "Circhester", 
+    "Coumarine City", 
+    "Couriway Town", 
+    "Cyllage City", 
+    "Dendemille Town", 
+    "Dewford Town", 
+    "Driftveil City", 
+    "Ecruteak City", 
+    "Eterna City", 
+    "Ever Grande City", 
+    "Fallarbor Town", 
+    "Five Island", 
+    "Floaroma Town", 
+    "Floccesy Town", 
+    "Fortree City", 
+    "Four Island", 
+    "Frontier Access", 
+    "Fuchsia City", 
+    "Geosenge Town", 
+    "Goldenrod City", 
+    "Hammerlocke", 
+    "Hau'oli City", 
+    "Heahea City", 
+    "Hearthome City", 
+    "Hulbury", 
+    "Humilau City", 
+    "Icirrus City", 
+    "Iki Town", 
+    "Jubilife City", 
+    "Kiloude City", 
+    "Konikoni City", 
+    "Lacunosa Town", 
+    "Lavaridge Town", 
+    "Lavender Town", 
+    "Laverre City", 
+    "Lentimas Town", 
+    "Littleroot Town", 
+    "Lilycove City", 
+    "Lumiose City", 
+    "Mahogany Town", 
+    "Malie City", 
+    "Mauville City", 
+    "Mistralton City", 
+    "Mossdeep City", 
+    "Motostoke", 
+    "Nacrene City", 
+    "New Bark Town", 
+    "Nimbasa City", 
+    "Nuvema Town", 
+    "Oldale Town", 
+    "Olivine City", 
+    "One Island", 
+    "Opelucid City", 
+    "Oreburgh City", 
+    "Pacifidlog Town", 
+    "Pallet Town", 
+    "Paniola Town", 
+    "Pastoria City", 
+    "Petalburg City", 
+    "Pewter City", 
+    "Postwick", 
+    "Po Town", 
+    "Rustboro City", 
+    "Saffron City", 
+    "Cobbleverse", 
+    "Sandgem Town", 
+    "Santalune City", 
+    "Seafolk Village", 
+    "Seven Island", 
+    "Shalour City", 
+    "Six Island", 
+    "Slateport City", 
+    "Snowbelle City", 
+    "Snowpoint City", 
+    "Solaceon Town", 
+    "Sootopolis City", 
+    "Spikemuth", 
+    "Stow-on-Side", 
+    "Striaton City", 
+    "Sunyshore City", 
+    "Tapu Village", 
+    "Three Island", 
+    "Turffield", 
+    "Twinleaf Town", 
+    "Two Island", 
+    "Undella Town", 
+    "Vaniville Town", 
+    "Veilstone City", 
+    "Verdanturf Town", 
+    "Vermilion City", 
+    "Violet City", 
+    "Virbank City", 
+    "Viridian City", 
+    "Wedgehurst", 
+    "White Forest", 
+    "Wyndon", 
+    "Jubilife Village", 
+    "Cabo Poco", 
+    "Los Platos", 
+    "Mesagoza", 
+    "Cortondo", 
+    "Artazon", 
+    "Levincia", 
+    "Cascarrafa", 
+    "Medali", 
+    "Montenevera", 
+    "Porto Marinada", 
+    "Alfornada", 
+    "Zapapico", 
+    "Mossui Town"
+]
 
 # The template to use when generating new names. Supported placeholders are {Biome} (english biome name) and {MrPork} (the default name generator).
-nameGenerationTemplate = "{MrPork}"
+nameGenerationTemplate = "{Biome}"
 
 # Set to REGULAR to have waystones spawn in some villages. Set to FREQUENT to have waystones spawn in most villages. Set to DISABLED to disable waystone generation in villages. Waystones will only spawn in vanilla or supported villages.
 spawnInVillages = "REGULAR"
@@ -118,7 +250,7 @@ spawnInVillages = "REGULAR"
 wildWaystoneStyle = "BIOME"
 
 # List of dimensions that wild waystones are allowed to spawn in. If left empty, all dimensions except those in wildWaystonesDimensionDenyList will be able to spawn waystones, provided the biomes are in the `has_structure/waystone` tag.
-wildWaystonesDimensionAllowList = [ "minecraft:the_nether", "minecraft:overworld", "minecraft:the_end" ]
+wildWaystonesDimensionAllowList = [ "minecraft:the_end", "minecraft:overworld", "minecraft:the_nether" ]
 
 # List of dimensions that wild waystones are not allowed to spawn in, even if the biome is in the `has_structure/waystone` tag. Only used if wildWaystonesDimensionAllowList is empty.
 wildWaystonesDimensionDenyList = [  ]

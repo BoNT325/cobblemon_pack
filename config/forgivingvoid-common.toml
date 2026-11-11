@@ -24,7 +24,7 @@ fallThroughVoidEffects = [ "minecraft:blindness|60|3" ]
 fallingHeight = 300
 
 # Prevent death on void fall (limits damage to leave at least 0.5 hearts)
-preventDeath = false
+preventDeath = true
 
 # Set to true to make Forgiving Void return the player to the sky above their last grounded position instead of their current position. Prevents players from using Forgiving Void to fly across larger distances.
 returnToLastGrounded = true

@@ -10,7 +10,7 @@
   "log_bundles": true,
   "planks_sets": true,
   "mixed_barrel_crafting": false,
-  "mixed_chest_crafting": true,
+  "mixed_chest_crafting": false,
   "mixed_crafting_table_crafting": true,
   "mixed_crafter_crafting": false,
   "mixed_ladder_crafting": false,

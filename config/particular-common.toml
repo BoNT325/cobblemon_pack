@@ -8,13 +8,13 @@
 		#Enable cascade particles
 		cascades = true
 		#Enable waterfall spray particles
-		waterfallSpray = true
+		waterfallSpray = false
 		#Enable firefly particles
 		fireflies = true
 		#Enable falling leaves particles
 		fallingLeaves = true
 		#Enable cave dust particles
-		caveDust = true
+		caveDust = false
 		#Enable chest bubbles
 		chestBubbles = true
 		#Enable soul sand bubbles
@@ -28,7 +28,7 @@
 		#Enable water drip ripples
 		waterDripRipples = true
 		#Enable cake eating particles
-		cakeEatingParticles = true
+		cakeEatingParticles = false
 		#Enable emissive lava drips
 		emissiveLavaDrips = true
 		#Enable lava splash particles when entities hit lava
@@ -91,7 +91,7 @@
 
 		[general.advancedSettings.customFluidsSettings]
 			#Fluid IDs treated like vanilla water for splash, rain ripples, and waterfall spray. Example: "tfc:river_water"
-			waterLikeFluids = ["tfc:river_water", "tfc:flowing_salt_water", "tfc:salt_water", "tfc:flowing_spring_water", "tfc:spring_water"]
+			waterLikeFluids = []
 			#Flowing,source fluid pairs that produce cascade waterfalls. Example: "mymod:flowing_water,mymod:water". TFC fluids do not produce cascades because they have no flowing variant.
 			cascadeFluidPairs = []
 

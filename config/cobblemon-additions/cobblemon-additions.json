@@ -13,6 +13,6 @@
     "enableItemScan": false
   },
   "lootMultiplier": {
-    "lootRollMultiplierPercent": 100.0
+    "lootRollMultiplierPercent": 64.0
   }
 }

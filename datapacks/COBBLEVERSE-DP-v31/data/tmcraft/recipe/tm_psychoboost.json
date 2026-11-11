@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:diamond_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:psychic_gem"
+    },
+    "Z": {
+      "item": "mega_showdown:deoxys_meteorite"
+    }
+  },
+  "pattern": [ 
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_psychoboost"
+  }
+}

@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:diamond_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:rock_gem"
+    },
+    "Z": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "pattern": [
+    " Z ",
+    "XYZ",
+    " Z "
+  ],
+  "result": {
+    "id": "tmcraft:tm_diamondstorm"
+  }
+}

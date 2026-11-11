@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "meloetta",
+        "moves": [
+            "relicsong",
+            "closecombat",
+            "hypervoice",
+            "psychic"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "NORMAL",
+    "weight": 0.1,
+    "loot_table": "cobblemonraiddens:raid/boss/meloetta"
+}

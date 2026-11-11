@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:emerald_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:steel_gem"
+    },
+    "Z": {
+      "item": "minecraft:chain"
+    }
+  },
+  "pattern": [
+    " Z ",
+    "XYZ",
+    " Z "
+  ],
+  "result": {
+    "id": "tmcraft:tm_anchorshot"
+  }
+}

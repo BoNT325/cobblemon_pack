@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:ice_gem"
+    },
+    "Z": {
+      "item": "cobblemon:never_melt_ice"
+    },
+    "W": {
+      "item": "cobblemon:ice_stone"
+    }
+  },
+  "pattern": [
+    " W ",
+    "XYZ",
+    " W "
+  ],
+  "result": {
+    "id": "tmcraft:tm_glaciate"
+  }
+}

@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:diamond_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:dark_gem"
+    },
+    "Z": {
+      "item": "cobblemon:reaper_cloth"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_nightdaze"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "pokemon": {
+        "species": "rotom",
+        "moves": [
+            "hex",
+            "shockwave",
+            "discharge",
+            "airslash"
+        ],
+        "custom_properties": [
+            {
+                "name": "appliance",
+                "value": "fan"
+            }
+        ]
+    },
+    "raid_tier": "TIER_FIVE",
+    "raid_type": "ELECTRIC",
+    "weight": 10.0
+}

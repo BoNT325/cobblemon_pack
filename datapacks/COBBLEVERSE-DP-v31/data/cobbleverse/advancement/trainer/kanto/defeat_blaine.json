@@ -1,0 +1,34 @@
+{
+  "parent": "cobbleverse:trainer/kanto/defeat_sabrina",
+  "display": {
+    "title": {
+      "translate": "advancements.cobbleverse.kanto.defeat_blaine"
+    },
+    "description": {
+      "translate": "advancements.cobbleverse.kanto.defeat_blaine.description"
+    },
+    "icon": {
+      "id": "cobbleversebadges:kanto_volcano_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "task"
+  },
+  "criteria": {
+    "leader_defeated": {
+      "conditions": {
+        "trainer_ids": ["kanto_blaine"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "leader_defeated"
+    ]
+  ],
+  "rewards": {
+    "function": "cobbleverse:blaine_defeated"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "structures": [
+      {
+        "structure": "cobbleverse:crown_cemetery",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 180,
+      "separation": 90,
+      "spread_type": "triangular",
+      "salt": 98358
+    }
+  }

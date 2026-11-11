@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:tm_waterpulse"
+    },
+    "Y": {
+      "item": "cobblemon:water_gem"
+    },
+    "Z": {
+      "item": "minecraft:heavy_core"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_hydrocannon"
+  }
+}

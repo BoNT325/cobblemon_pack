@@ -1,0 +1,13 @@
+{
+  "include": [
+    "#cobblemonraiddens:cobbleverse",
+    "#cobblemonraiddens:paradox"
+  ],
+  "additions": {
+    "raid_feature": "TERA",
+    "raid_type": "ELECTRIC",
+    "weight": 0.75
+  },
+  "replace": false,
+  "suffix": "teraelectric"
+}

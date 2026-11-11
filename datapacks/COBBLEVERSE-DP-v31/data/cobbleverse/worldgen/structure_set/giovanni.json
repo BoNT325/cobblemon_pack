@@ -1,0 +1,14 @@
+{
+  "structures": [
+      {
+          "structure": "cobbleverse:giovanni",
+          "weight": 1
+      }
+  ],
+  "placement": {
+      "salt": 8457,
+      "spacing": 40,
+      "separation": 20,
+      "type": "random_spread"
+  }
+}

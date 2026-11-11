@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:netherite_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:flying_gem"
+    },
+    "Z": {
+      "item": "minecraft:wind_charge"
+    }
+  },
+  "pattern": [
+    " Z ",
+    "XYZ",
+    " Z "
+  ],
+  "result": {
+    "id": "tmcraft:tm_skyattack"
+  }
+}

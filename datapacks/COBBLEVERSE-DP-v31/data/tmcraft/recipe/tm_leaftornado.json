@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:gold_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:grass_gem"
+    },
+    "Z": {
+      "item": "cobblemon:leaf_stone"
+    },
+    "W": {
+      "item": "minecraft:wind_charge"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_leaftornado"
+  }
+}

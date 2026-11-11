@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "cobblemon:ghost_gem"
+    },
+    "Y": {
+      "item": "mega_showdown:reins_of_unity"
+    },
+    "W": {
+      "item": "lumymon:poke_radar"
+    },
+    "Z": {
+      "item": "minecraft:soul_sand"
+    },
+    "L": {
+      "item": "cobblemon:relic_coin_pouch"
+    }
+  },
+  "pattern": [
+    " X ",
+    "ZWZ",
+    "LYL"
+  ],
+  "result": {
+    "id": "lumymon:calyrex_shadow_radar"
+  }
+}

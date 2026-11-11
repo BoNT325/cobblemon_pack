@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:netherite_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:ice_gem"
+    },
+    "Z": {
+      "item": "cobblemon:never_melt_ice"
+    },
+    "W": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "XYZ",
+    "WWW"
+  ],
+  "result": {
+    "id": "tmcraft:tm_sheercold"
+  }
+}

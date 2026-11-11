@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:gold_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:grass_gem"
+    },
+    "Z": {
+      "item": "cobblemon:apricorn_leaves"
+    },
+    "W": {
+      "item": "cobblemon:razor_claw"
+    }
+  },
+  "pattern": [
+    "ZZZ",
+    "XYW",
+    "ZZZ"
+  ],
+  "result": {
+    "id": "tmcraft:tm_razorleaf"
+  }
+}

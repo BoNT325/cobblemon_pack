@@ -1,0 +1,36 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "decoration": "minecraft:target_point",
+              "destination": "cobbleverse:kanto_brock_gym",
+              "function": "minecraft:exploration_map",
+              "search_radius": 30
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "§eFirst Gym §c[KANTO]"
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                "Defeat Gym Leaders to",
+                "increase your Level Cap"
+              ],
+              "mode": "append"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

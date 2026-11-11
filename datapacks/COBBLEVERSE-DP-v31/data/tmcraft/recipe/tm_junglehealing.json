@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:diamond_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:grass_gem"
+    },
+    "Z": {
+      "item": "minecraft:jungle_sapling"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_junglehealing"
+  }
+}

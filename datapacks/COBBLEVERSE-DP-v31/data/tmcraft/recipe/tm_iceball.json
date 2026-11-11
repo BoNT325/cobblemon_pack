@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:ice_gem"
+    },
+    "Z": {
+      "item": "minecraft:snowball"
+    },
+    "W": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "  W"
+  ],
+  "result": {
+    "id": "tmcraft:tm_iceball"
+  }
+}

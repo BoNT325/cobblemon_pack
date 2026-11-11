@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:tm_smog"
+    },
+    "Y": {
+      "item": "cobblemon:poison_gem"
+    },
+    "Z": {
+      "item": "cobblemon:smoke_ball"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_corrosivegas"
+  }
+}

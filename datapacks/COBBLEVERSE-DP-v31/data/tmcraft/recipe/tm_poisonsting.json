@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:emerald_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:poison_gem"
+    },
+    "Z": {
+      "item": "cobblemon:poison_barb"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_poisonsting"
+  }
+}

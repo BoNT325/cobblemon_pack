@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:tm_spore"
+    },
+    "Y": {
+      "item": "cobblemon:grass_gem"
+    },
+    "Z": {
+      "item": "cobblemon:paralyze_heal"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_stunspore"
+  }
+}

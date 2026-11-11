@@ -1,0 +1,28 @@
+{
+  "parent": "cobbleverse:trainer/kanto/defeat_champion_blue",
+  "display": {
+    "icon": {
+      "id": "cobblemon:ancient_origin_ball"
+    },
+    "title": {
+      "translate": "advancements.cobbleverse.craft_origin_fossil"
+    },
+    "description": {
+      "translate": "advancements.cobbleverse.craft_origin_fossil.description"
+    },
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "crafted_mew_fossil": {
+      "conditions": {
+        "items": [
+          {
+            "items": "lumymon:origin_fossil"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  }
+}

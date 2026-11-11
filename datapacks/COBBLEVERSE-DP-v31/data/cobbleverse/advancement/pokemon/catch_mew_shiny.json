@@ -1,0 +1,32 @@
+{
+  "parent": "cobbleverse:pokemon/catch_mew",
+  "display": {
+    "title": {
+      "translate": "advancements.cobbleverse.catch_mew_shiny"
+    },
+    "description": {
+      "translate": "advancements.cobbleverse.catch_mew_shiny.description"
+    },
+    "icon": {
+      "id": "lumymon:origin_fossil"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": true,
+    "frame": "challenge"
+  },
+  "criteria": {
+    "caught_mew_shiny": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "species": "cobblemon:mew",
+        "aspects": ["shiny"]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "caught_mew_shiny"
+    ]
+  ]
+}

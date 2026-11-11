@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:tm_bind"
+    },
+    "Y": {
+      "item": "cobblemon:normal_gem"
+    },
+    "Z": {
+      "item": "cobblemon:binding_band"
+    }
+  },
+  "pattern": [ 
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_wringout"
+  }
+}

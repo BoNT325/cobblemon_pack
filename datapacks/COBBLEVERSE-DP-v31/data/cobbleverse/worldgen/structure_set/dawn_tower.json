@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "cobbleverse:dawn_tower",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "salt": 769831,
+        "spacing": 200,
+        "separation": 125,
+        "type": "random_spread"
+    }
+}

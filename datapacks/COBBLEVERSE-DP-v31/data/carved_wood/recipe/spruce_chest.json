@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:spruce_planks"
+    },
+    "B": {
+      "tag": "minecraft:buttons"
+    }
+  },
+  "pattern": [
+    "###",
+    "#B#",
+    "###"
+  ],
+  "result": {
+    "id": "carved_wood:spruce_chest",
+    "count": 1
+  },
+  "group": "wooden_chests",
+  "category": "misc",
+  "neoforge:conditions": [
+    {
+      "type": "carved_wood:config",
+      "value": "wooden_chests"
+    }
+  ],
+  "fabric:load_conditions": [
+    {
+      "condition": "carved_wood:config",
+      "value": "wooden_chests"
+    }
+  ]
+}

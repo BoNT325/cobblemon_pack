@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:diamond_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:ice_gem"
+    },
+    "Z": {
+      "item": "minecraft:diamond_sword"
+    },
+    "W": {
+      "item": "cobblemon:ice_stone"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "  W"
+  ],
+  "result": {
+    "id": "tmcraft:tm_glaciallance"
+  }
+}

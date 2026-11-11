@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "cobblemon:great_ball"
+    },
+    "title": {
+      "translate": "advancements.cobbleverse.root"
+    },
+    "description": {
+      "translate": "advancements.cobbleverse.root.description"
+    },
+    "background": "cobbleverse:gui/advancements_bg.png",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cobbleverse_starts_now": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "periodic_tick": 20
+        }
+      }
+    }
+  },
+  "sends_telemetry_event": false
+}

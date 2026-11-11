@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:emerald_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:normal_gem"
+    },
+    "Z": {
+      "item": "cobblemon:razor_fang"
+    }
+  },
+  "pattern": [ 
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_hyperfang"
+  }
+}

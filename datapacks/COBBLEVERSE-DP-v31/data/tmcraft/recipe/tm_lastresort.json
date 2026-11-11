@@ -1,0 +1,34 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:netherite_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:normal_gem"
+    },
+    "Z": {
+      "item": "tmcraft:copper_blank_disc"
+    },
+    "W": {
+      "item": "tmcraft:iron_blank_disc"
+    },    
+    "L": {
+      "item": "tmcraft:gold_blank_disc"
+    },
+    "M": {
+      "item": "tmcraft:emerald_blank_disc"
+    },
+    "N": {
+      "item": "tmcraft:diamond_blank_disc"
+    }
+  },
+  "pattern": [ 
+    "WLM",
+    "XYZ",
+    "  N"
+  ],
+  "result": {
+    "id": "tmcraft:tm_lastresort"
+  }
+}

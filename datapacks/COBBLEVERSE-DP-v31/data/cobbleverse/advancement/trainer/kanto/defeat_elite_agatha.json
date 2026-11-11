@@ -1,0 +1,34 @@
+{
+  "parent": "cobbleverse:trainer/kanto/defeat_elite_bruno",
+  "display": {
+    "title": {
+      "translate": "advancements.cobbleverse.kanto.defeat_elite_agatha"
+    },
+    "description": {
+      "translate": "advancements.cobbleverse.kanto.defeat_elite_agatha.description"
+    },
+    "icon": {
+      "id": "cobblemon:spell_tag"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "elite_defeated": {
+      "conditions": {
+        "trainer_ids": ["kanto_league_agatha"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "elite_defeated"
+    ]
+  ],
+  "rewards": {
+    "function": "cobbleverse:agatha_defeated"
+  }
+}

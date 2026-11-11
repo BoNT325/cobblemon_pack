@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:gold_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:steel_gem"
+    },
+    "Z": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "W": {
+      "item": "cobblemon:mirror_herb"
+    }
+  },
+  "pattern": [
+    "  Z",
+    "XYW",
+    "  Z"
+  ],
+  "result": {
+    "id": "tmcraft:tm_mirrorshot"
+  }
+}

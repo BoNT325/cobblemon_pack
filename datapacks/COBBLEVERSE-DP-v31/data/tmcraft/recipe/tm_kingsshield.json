@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:steel_gem"
+    },
+    "Z": {
+      "item": "minecraft:shield"
+    },
+    "W": {
+      "item": "cobblemon:kings_rock"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_kingsshield"
+  }
+}

@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:copper_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:normal_gem"
+    },
+    "Z": {
+      "item": "minecraft:wet_sponge"
+    }
+  },
+  "pattern": [ 
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_splash"
+  }
+}

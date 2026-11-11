@@ -1,0 +1,28 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:netherite_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:ice_gem"
+    },
+    "Z": {
+      "item": "minecraft:wind_charge"
+    },
+    "W": {
+      "item": "cobblemon:never_melt_ice"
+    },
+    "L": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "  L"
+  ],
+  "result": {
+    "id": "tmcraft:tm_iceburn"
+  }
+}

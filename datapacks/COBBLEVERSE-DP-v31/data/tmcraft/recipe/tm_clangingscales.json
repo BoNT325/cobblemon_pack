@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:diamond_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:dragon_gem"
+    },
+    "Z": {
+      "item": "cobblemon:dragon_scale"
+    }
+  },
+  "pattern": [
+    "  Z",
+    "XY ",
+    "  Z"
+  ],
+  "result": {
+    "id": "tmcraft:tm_clangingscales"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "category": "misc",
+    "group": "cobblecuisine",
+    "ingredients": [
+        {
+            "item": "cobblecuisine:green_bean"
+        },
+        {
+            "item": "cobblemon:kebia_berry"
+        },
+        {
+            "item": "cobblemon:rabuta_berry"
+        },
+        {
+            "item": "cobblemon:revival_herb"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "cobblecuisine:bitter_herb_medley_curry"
+    },
+    "type": "minecraft:crafting_shapeless"
+}

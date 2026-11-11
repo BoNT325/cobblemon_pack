@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:poison_gem"
+    },
+    "Z": {
+      "item": "cobblemon:smoke_ball"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_poisongas"
+  }
+}

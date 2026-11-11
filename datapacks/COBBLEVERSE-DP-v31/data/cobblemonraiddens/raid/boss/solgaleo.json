@@ -1,0 +1,15 @@
+{
+    "pokemon": {
+        "species": "solgaleo",
+        "moves": [
+            "sunsteelstrike",
+            "flareblitz",
+            "wildcharge",
+            "crunch"
+        ]
+    },
+    "raid_tier": "TIER_SEVEN",
+    "raid_type": "PSYCHIC",
+    "weight": 0.2,
+    "loot_table": "cobblemonraiddens:raid/boss/legendary"
+}

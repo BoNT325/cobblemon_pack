@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "mega_showdown:omni_ring",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancement.mega_showdown.root.title",
+      "fallback": "Showdown Time!"
+    },
+    "description": {
+      "translate": "advancement.mega_showdown.root.description",
+      "fallback": "Let the Showdown begin!"
+    },
+    "background": "mega_showdown:textures/block/mega_meteorid_block.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root": {
+      "trigger": "cobblemon:pick_starter"
+    }
+  }
+}

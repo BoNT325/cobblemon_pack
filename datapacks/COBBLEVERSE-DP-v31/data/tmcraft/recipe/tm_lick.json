@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:ghost_gem"
+    },
+    "Z": {
+      "item": "cobblemon:paralyze_heal"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_lick"
+  }
+}

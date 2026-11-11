@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:copper_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:fairy_gem"
+    },
+    "Z": {
+      "item": "cobblemon:sachet"
+    },
+    "W": {
+      "item": "minecraft:peony"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_aromaticmist"
+  }
+}

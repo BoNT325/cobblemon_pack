@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "cobbleverse:legendary/articuno",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 151,
+      "separation": 99,
+      "salt": 81441
+    }
+  }

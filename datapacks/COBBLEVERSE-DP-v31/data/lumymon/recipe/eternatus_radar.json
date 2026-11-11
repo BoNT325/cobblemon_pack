@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "lumymon:poke_radar"
+    },
+    "X": {
+      "item": "cobblemon:poison_gem"
+    },
+    "Y": {
+      "item": "legendarymonuments:galar_particle_block"
+    },
+    "Z": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "pattern": [
+    " X ",
+    "YPY",
+    "ZYZ"
+  ],
+  "result": {
+    "id": "lumymon:eternatus_radar"
+  }
+}

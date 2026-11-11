@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:copper_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:grass_gem"
+    },
+    "Z": {
+      "item": "cobblemon:grassy_seed"
+    },
+    "W": {
+      "item": "minecraft:bell"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_worryseed"
+  }
+}

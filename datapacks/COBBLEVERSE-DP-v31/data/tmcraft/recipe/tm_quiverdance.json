@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:bug_gem"
+    },
+    "Z": {
+      "item": "cobblemon:x_special_attack"
+    },
+    "W": {
+      "item": "cobblemon:x_special_defence"
+    },    
+    "L": {
+      "item": "cobblemon:x_speed"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "ZWL"
+  ],
+  "result": {
+    "id": "tmcraft:tm_quiverdance"
+  }
+}

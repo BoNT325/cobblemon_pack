@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:poison_gem"
+    },
+    "Z": {
+      "item": "minecraft:shield"
+    },
+    "W": {
+      "item": "cobblemon:black_sludge"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "WWW"
+  ],
+  "result": {
+    "id": "tmcraft:tm_acidarmor"
+  }
+}

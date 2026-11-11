@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "cobblemon:oran_berry"
+    },
+    "title": {
+      "translate": "advancements.cobblemon.obtain_berry"
+    },
+    "description": {
+      "translate": "advancements.cobblemon.obtain_berry.description"
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "cobblemon:any_plant",
+  "criteria": {
+    "check_inv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#cobblemon:berries"
+          }
+        ]
+      }
+    }
+  },
+  "sends_telemetry_event": false
+}

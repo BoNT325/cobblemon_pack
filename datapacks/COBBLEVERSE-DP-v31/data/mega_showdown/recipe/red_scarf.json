@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":  [
+    {
+      "item": "cobblemon:silk_scarf"
+    },
+    {
+      "item": "cobblemon:red_mint_leaf"
+    },
+    {
+      "item": "minecraft:red_dye"
+    }
+  ],
+  "result": {
+    "id": "minecraft:trial_key",
+    "count": 1,
+    "components": {
+      "minecraft:custom_model_data": 260609,
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Red Scarf\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"text\":\"Form Changes\", \"color\":\"blue\", \"italic\":false}",
+        "{\"color\":\"gray\",\"text\":\"A scarf typically worn by the Mystery Dungeon Team\"}"
+      ]
+    }
+  }
+}

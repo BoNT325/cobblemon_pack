@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "cobblemon:link_cable",
+	"components": {
+        "minecraft:custom_model_data": 1
+      }
+    },
+    "title": {
+      "translate": "advancements.cobblemon.root"
+    },
+    "description": {
+      "translate": "advancements.cobblemon.root.description"
+    },
+    "background": "cobblemon:textures/gui/advancements/backgrounds/cobblemon.png"
+  },
+  "criteria": {
+    "picked_starter": {
+      "trigger": "cobblemon:pick_starter"
+    }
+  },
+  "rewards": {
+    "function": "cobbleverse:starter_pack"
+  }
+}

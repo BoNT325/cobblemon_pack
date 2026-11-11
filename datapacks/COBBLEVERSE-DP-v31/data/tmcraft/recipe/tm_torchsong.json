@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:iron_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:fire_gem"
+    },
+    "Z": {
+      "item": "minecraft:music_disc_blocks"
+    },
+    "W": {
+      "item": "minecraft:torch"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_torchsong"
+  }
+}

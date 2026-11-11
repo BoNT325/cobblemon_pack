@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:diamond_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:fire_gem"
+    },
+    "Z": {
+      "item": "cobblemon:charcoal_stick"
+    },
+    "W": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "XYZ",
+    "WWW"
+  ],
+  "result": {
+    "id": "tmcraft:tm_ragingfury"
+  }
+}

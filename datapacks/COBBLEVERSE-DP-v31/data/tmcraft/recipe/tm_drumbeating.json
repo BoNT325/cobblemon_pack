@@ -1,0 +1,25 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:diamond_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:grass_gem"
+    },
+    "Z": {
+      "item": "minecraft:note_block"
+    },
+    "W": {
+      "item": "cobblemon:big_root"
+    }
+  },
+  "pattern": [
+    "  W",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_drumbeating"
+  }
+}

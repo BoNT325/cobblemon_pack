@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:tm_triplekick"
+    },
+    "Y": {
+      "item": "cobblemon:fighting_gem"
+    },
+    "Z": {
+      "item": "minecraft:rabbit_foot"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XYZ",
+    "   "
+  ],
+  "result": {
+    "id": "tmcraft:tm_jumpkick"
+  }
+}

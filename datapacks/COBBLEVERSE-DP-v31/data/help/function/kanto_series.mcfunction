@@ -1,0 +1,1 @@
+rctmod player set series kanto @s

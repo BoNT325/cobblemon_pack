@@ -1,0 +1,29 @@
+{
+    "category": "misc",
+    "group": "cobblecuisine",
+    "key": {
+        "b": {
+            "item": "minecraft:bread"
+        },
+        "x": {
+            "item": "cobblecuisine:spice_mix"
+        },
+        "y": {
+            "item": "cobblecuisine:roasted_colbur_berry"
+        },
+        "z": {
+            "item": "minecraft:porkchop"
+        }
+    },
+    "pattern": [
+        " b ",
+        "xyz",
+        " b "
+    ],
+    "result": {
+        "count": 1,
+        "id": "cobblecuisine:spicy_ham_sandwich"
+    },
+    "show_notification": true,
+    "type": "minecraft:crafting_shaped"
+}

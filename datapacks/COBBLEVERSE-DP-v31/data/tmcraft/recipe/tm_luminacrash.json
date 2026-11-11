@@ -1,0 +1,22 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tmcraft:gold_blank_disc"
+    },
+    "Y": {
+      "item": "cobblemon:psychic_gem"
+    },
+    "Z": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "pattern": [ 
+    " Z ",
+    "XYZ",
+    " Z "
+  ],
+  "result": {
+    "id": "tmcraft:tm_luminacrash"
+  }
+}

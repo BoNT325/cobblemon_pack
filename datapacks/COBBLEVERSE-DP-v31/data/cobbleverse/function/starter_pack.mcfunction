@@ -2,6 +2,7 @@ item replace entity @s armor.chest with sophisticatedbackpacks:iron_backpack
 item replace entity @s weapon.offhand with cobblemon:pokedex_red
 give @s cobblemon:poke_ball 10
 give @s cobblemon:oran_berry 10
+give @s comforts:sleeping_bag_light_gray
 item replace entity @s hotbar.8 with rctmod:trainer_card
 gamerule healersHealPC true
 recipe give @s *

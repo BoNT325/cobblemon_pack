@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/build.yaml"
-hash = "1093023fd2f4af95fc1405c1813ca5486deca2b176a2fb795f1cba9212b95be1"
-
-[[files]]
-file = "README.md"
-hash = "f8d62c9bf60eb7785ad93c575206de586aa04f3404f5228c773233bcb99dd2e8"
-
-[[files]]
 file = "config/LibertyVillagers.json"
 hash = "fc422ff896dc519078d0edcc2458b036743f34c02966ff9361b3b0cfa526a163"
 

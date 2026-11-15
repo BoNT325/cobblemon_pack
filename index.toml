@@ -57,6 +57,10 @@ file = "config/biome_replacer.properties"
 hash = "c4803c6dbd66c106783dfe95a83551a2452fd02b5613477f0d1539c116b8f014"
 
 [[files]]
+file = "config/blastingstone.json"
+hash = "114915aed216478458ae983a8edea93a0d311f7ec836aeabe15e837d81a3c5d7"
+
+[[files]]
 file = "config/c2me.toml"
 hash = "bd21af579a54b315a23766a7be48d256377b1473ad13c4a91a8bbb8aa6c5d817"
 
@@ -1523,6 +1527,18 @@ hash = "73d0c30b0bc995b87df0d8edaec9e23c6134861c485c6aae4a3268bf383c96eb"
 [[files]]
 file = "datapacks/COBBLEVERSE-DP-v31/data/cobblemon/fossils/typenull.json"
 hash = "2ff2fd173042e09763515210051ca13df9e5cb74359149ae6d4fb70b80c8ad6d"
+
+[[files]]
+file = "datapacks/COBBLEVERSE-DP-v31/data/cobblemon/mechanics/potions.json"
+hash = "97ab16defad3c595c7d44fd77a7f87de3c5bad12f236a0eb90efdcee38a86610"
+
+[[files]]
+file = "datapacks/COBBLEVERSE-DP-v31/data/cobblemon/recipe/berry_juice.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "datapacks/COBBLEVERSE-DP-v31/data/cobblemon/recipe/campfire_pot/berry_juice.json"
+hash = "bca12323036626a118a8d5b4d4f3a8a561cc1c3bc48fab5c1e2e7f0b8b2de5c6"
 
 [[files]]
 file = "datapacks/COBBLEVERSE-DP-v31/data/cobblemon/spawn_pool_world/0001_bulbasaur.json"
@@ -11401,6 +11417,10 @@ file = "datapacks/PokeCenterPCs-DP.zip"
 hash = "e462e091ef376595c5b0efab2615fe0463b93b4c54e462cc841749a90ecefe31"
 
 [[files]]
+file = "datapacks/RPcampfire_FREE.zip"
+hash = "918cb454c8509c3b6fd8189836fb506e2d8728f80112d97b08e59834488e5ecd"
+
+[[files]]
 file = "datapacks/extra/COBBLEVERSE-Hoenn-DP.zip"
 hash = "68a1d6f49353eb75d970aaef03dbdba8eafe163d2259d45313c2430f8497817b"
 
@@ -11577,6 +11597,10 @@ file = "mods/advancementdisable-fabric-1.0.1+1.21.jar"
 hash = "53e5c47d485b0a0dd417c2255523679a0b4bba059ae796cdab746112ad1440d6"
 
 [[files]]
+file = "mods/appleskin-fabric-mc1.21-3.0.6.jar"
+hash = "9a19cec1294b1bc708392a08e6926dcb85d7378ec5ad909a4b6fcb8bc3bfeaa2"
+
+[[files]]
 file = "mods/architectury-13.0.8-fabric.jar"
 hash = "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d"
 
@@ -11603,6 +11627,10 @@ hash = "d707f5df1c45150eb18b3135380519e74dd9103673a71032ef3de2b9038424aa"
 [[files]]
 file = "mods/biomereplacer-2.1-hippo-fabric.jar"
 hash = "ec6eeda3d4d32d9740c3e6f24177db3fcfa06866f73e341c0ad4ea090d0055ac"
+
+[[files]]
+file = "mods/blastingstone-1.21.1-fabric-3.jar"
+hash = "3818c8fcda6b8acdc4e4c7fb0b42608d5a393da1711613e9e64c21e066e1955c"
 
 [[files]]
 file = "mods/c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar"
@@ -11669,12 +11697,20 @@ file = "mods/continuity-3.0.0+1.21.jar"
 hash = "99fd46b834874d167ea2349a9a72947cbfa7192f927aa99bbeb4b0637aa208d4"
 
 [[files]]
+file = "mods/cozy-campfire-1.0.0.jar"
+hash = "c49ff266b444b6c4a4adddd3039091a2438d2848e6f2068ef7c77464ade5ebae"
+
+[[files]]
 file = "mods/customsplashscreen-2.2.0.jar"
 hash = "142aacb23fc97e467ded7e279a72b00252018c43d12d803d928d07d4fe8d8678"
 
 [[files]]
 file = "mods/defaultoptions-fabric-1.21.1-21.1.7.jar"
 hash = "8fff8fad699028a6578c61df3d1690d6fb5abbdc9a7c436e94cc9f51138be790"
+
+[[files]]
+file = "mods/deimos-1.21.1-fabric-2.8.jar"
+hash = "6c0db19312dc0da691eada0f38ca2c29ed12b4822e1ef3b929521471531272ca"
 
 [[files]]
 file = "mods/entity_model_features-3.2.4-1.21-fabric.jar"
@@ -11895,6 +11931,14 @@ hash = "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5"
 [[files]]
 file = "mods/respackopts-4.14.0+1.21.1.4.jar"
 hash = "8c38228c14841a01034e6371fada5754754a0abf13de843eea1e1d41dc8257f3"
+
+[[files]]
+file = "mods/simple-campfires-1.21.1-fabric-1.0.0.jar"
+hash = "59af28baa5170b29ebb08a4dc5625e2ff63b2eb8da3d878831cab9ed17a7a8da"
+
+[[files]]
+file = "mods/simplytents-6.0-1.21.1.fabric.jar"
+hash = "5dd2fa8f54e4fea14faf1fdbfbf4369828c1f44dbd1463768c5a49e775db7378"
 
 [[files]]
 file = "mods/sodium-fabric-0.8.12+mc1.21.1.jar"
